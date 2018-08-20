@@ -1,2597 +1,2597 @@
 
-    import '@/icons/address-book.js'
+    import './address-card.js'
   
-    import '@/icons/align-center.js'
+    import './address-book.js'
   
-    import '@/icons/address-card.js'
+    import './align-justify.js'
   
-    import '@/icons/air-freshener.js'
+    import './air-freshener.js'
   
-    import '@/icons/align-justify.js'
+    import './align-center.js'
   
-    import '@/icons/align-left.js'
+    import './align-right.js'
   
-    import '@/icons/adjust.js'
+    import './allergies.js'
   
-    import '@/icons/align-right.js'
+    import './align-left.js'
   
-    import '@/icons/allergies.js'
+    import './ambulance.js'
   
-    import '@/icons/ambulance.js'
+    import './anchor.js'
   
-    import '@/icons/american-sign-language-interpreting.js'
+    import './angle-double-down.js'
   
-    import '@/icons/angle-double-down.js'
+    import './angle-double-right.js'
   
-    import '@/icons/angle-double-left.js'
+    import './angle-double-up.js'
   
-    import '@/icons/angle-double-up.js'
+    import './angle-left.js'
   
-    import '@/icons/anchor.js'
+    import './angle-down.js'
   
-    import '@/icons/angle-double-right.js'
+    import './angle-right.js'
   
-    import '@/icons/angle-down.js'
+    import './angle-double-left.js'
   
-    import '@/icons/angle-left.js'
+    import './angle-up.js'
   
-    import '@/icons/angle-right.js'
+    import './adjust.js'
   
-    import '@/icons/angle-up.js'
+    import './angry.js'
   
-    import '@/icons/angry.js'
+    import './archive.js'
   
-    import '@/icons/apple-alt.js'
+    import './arrow-alt-circle-down.js'
   
-    import '@/icons/archive.js'
+    import './apple-alt.js'
   
-    import '@/icons/archway.js'
+    import './archway.js'
   
-    import '@/icons/arrow-alt-circle-down.js'
+    import './arrow-alt-circle-left.js'
   
-    import '@/icons/arrow-alt-circle-left.js'
+    import './arrow-alt-circle-right.js'
   
-    import '@/icons/arrow-alt-circle-right.js'
+    import './arrow-alt-circle-up.js'
   
-    import '@/icons/arrow-alt-circle-up.js'
+    import './arrow-circle-down.js'
   
-    import '@/icons/arrow-circle-down.js'
+    import './arrow-circle-left.js'
   
-    import '@/icons/arrow-circle-left.js'
+    import './arrow-circle-right.js'
   
-    import '@/icons/arrow-circle-right.js'
+    import './american-sign-language-interpreting.js'
   
-    import '@/icons/arrow-circle-up.js'
+    import './arrow-circle-up.js'
   
-    import '@/icons/arrow-down.js'
+    import './arrow-down.js'
   
-    import '@/icons/arrow-left.js'
+    import './arrow-left.js'
   
-    import '@/icons/arrow-right.js'
+    import './arrow-right.js'
   
-    import '@/icons/arrow-up.js'
+    import './arrow-up.js'
   
-    import '@/icons/arrows-alt-h.js'
+    import './arrows-alt-h.js'
   
-    import '@/icons/arrows-alt-v.js'
+    import './arrows-alt-v.js'
   
-    import '@/icons/arrows-alt.js'
+    import './arrows-alt.js'
   
-    import '@/icons/assistive-listening-systems.js'
+    import './assistive-listening-systems.js'
   
-    import '@/icons/asterisk.js'
+    import './asterisk.js'
   
-    import '@/icons/at.js'
+    import './at.js'
   
-    import '@/icons/atlas.js'
+    import './atlas.js'
   
-    import '@/icons/atom.js'
+    import './atom.js'
   
-    import '@/icons/audio-description.js'
+    import './audio-description.js'
   
-    import '@/icons/award.js'
+    import './award.js'
   
-    import '@/icons/backward.js'
+    import './backspace.js'
   
-    import '@/icons/backspace.js'
+    import './backward.js'
   
-    import '@/icons/ban.js'
+    import './balance-scale.js'
   
-    import '@/icons/bars.js'
+    import './ban.js'
   
-    import '@/icons/band-aid.js'
+    import './barcode.js'
   
-    import '@/icons/baseball-ball.js'
+    import './band-aid.js'
   
-    import '@/icons/barcode.js'
+    import './bars.js'
   
-    import '@/icons/basketball-ball.js'
+    import './baseball-ball.js'
   
-    import '@/icons/bath.js'
+    import './basketball-ball.js'
   
-    import '@/icons/battery-full.js'
+    import './bath.js'
   
-    import '@/icons/battery-half.js'
+    import './battery-empty.js'
   
-    import '@/icons/battery-three-quarters.js'
+    import './battery-full.js'
   
-    import '@/icons/battery-quarter.js'
+    import './battery-half.js'
   
-    import '@/icons/bed.js'
+    import './battery-quarter.js'
   
-    import '@/icons/battery-empty.js'
+    import './battery-three-quarters.js'
   
-    import '@/icons/beer.js'
+    import './bed.js'
   
-    import '@/icons/bell-slash.js'
+    import './beer.js'
   
-    import '@/icons/bell.js'
+    import './bell-slash.js'
   
-    import '@/icons/bezier-curve.js'
+    import './bell.js'
   
-    import '@/icons/bicycle.js'
+    import './bezier-curve.js'
   
-    import '@/icons/binoculars.js'
+    import './bicycle.js'
   
-    import '@/icons/blender.js'
+    import './binoculars.js'
   
-    import '@/icons/birthday-cake.js'
+    import './birthday-cake.js'
   
-    import '@/icons/blind.js'
+    import './blender.js'
   
-    import '@/icons/bold.js'
+    import './blind.js'
   
-    import '@/icons/bolt.js'
+    import './bolt.js'
   
-    import '@/icons/bomb.js'
+    import './bold.js'
   
-    import '@/icons/bone.js'
+    import './bomb.js'
   
-    import '@/icons/bong.js'
+    import './bone.js'
   
-    import '@/icons/book-open.js'
+    import './bong.js'
   
-    import '@/icons/book.js'
+    import './book-reader.js'
   
-    import '@/icons/book-reader.js'
+    import './book-open.js'
   
-    import '@/icons/bookmark.js'
+    import './book.js'
   
-    import '@/icons/bowling-ball.js'
+    import './bookmark.js'
   
-    import '@/icons/box-open.js'
+    import './bowling-ball.js'
   
-    import '@/icons/boxes.js'
+    import './box-open.js'
   
-    import '@/icons/braille.js'
+    import './box.js'
   
-    import '@/icons/box.js'
+    import './boxes.js'
   
-    import '@/icons/brain.js'
+    import './braille.js'
   
-    import '@/icons/brands/500px.js'
+    import './brain.js'
   
-    import '@/icons/brands/accusoft.js'
+    import './brands/500px.js'
   
-    import '@/icons/brands/adn.js'
+    import './brands/accessible-icon.js'
   
-    import '@/icons/brands/accessible-icon.js'
+    import './brands/accusoft.js'
   
-    import '@/icons/brands/affiliatetheme.js'
+    import './brands/adn.js'
   
-    import '@/icons/brands/adversal.js'
+    import './brands/adversal.js'
   
-    import '@/icons/brands/amazon-pay.js'
+    import './brands/affiliatetheme.js'
   
-    import '@/icons/brands/amazon.js'
+    import './brands/algolia.js'
   
-    import '@/icons/brands/algolia.js'
+    import './brands/amazon-pay.js'
   
-    import '@/icons/brands/amilia.js'
+    import './brands/amazon.js'
   
-    import '@/icons/brands/android.js'
+    import './brands/android.js'
   
-    import '@/icons/brands/angellist.js'
+    import './brands/angellist.js'
   
-    import '@/icons/brands/angrycreative.js'
+    import './brands/angrycreative.js'
   
-    import '@/icons/brands/angular.js'
+    import './brands/angular.js'
   
-    import '@/icons/brands/app-store-ios.js'
+    import './brands/app-store-ios.js'
   
-    import '@/icons/brands/app-store.js'
+    import './brands/app-store.js'
   
-    import '@/icons/brands/apper.js'
+    import './brands/apper.js'
   
-    import '@/icons/brands/apple-pay.js'
+    import './brands/apple-pay.js'
   
-    import '@/icons/brands/apple.js'
+    import './brands/apple.js'
   
-    import '@/icons/brands/asymmetrik.js'
+    import './brands/asymmetrik.js'
   
-    import '@/icons/brands/autoprefixer.js'
+    import './brands/autoprefixer.js'
   
-    import '@/icons/brands/audible.js'
+    import './brands/audible.js'
   
-    import '@/icons/brands/avianex.js'
+    import './brands/avianex.js'
   
-    import '@/icons/brands/aviato.js'
+    import './brands/aviato.js'
   
-    import '@/icons/brands/aws.js'
+    import './brands/aws.js'
   
-    import '@/icons/brands/bandcamp.js'
+    import './brands/bandcamp.js'
   
-    import '@/icons/brands/behance-square.js'
+    import './brands/behance-square.js'
   
-    import '@/icons/brands/behance.js'
+    import './brands/behance.js'
   
-    import '@/icons/brands/bimobject.js'
+    import './brands/bimobject.js'
   
-    import '@/icons/brands/bitbucket.js'
+    import './brands/bitbucket.js'
   
-    import '@/icons/brands/bitcoin.js'
+    import './brands/bitcoin.js'
   
-    import '@/icons/brands/bity.js'
+    import './brands/bity.js'
   
-    import '@/icons/brands/blackberry.js'
+    import './brands/black-tie.js'
   
-    import '@/icons/brands/black-tie.js'
+    import './brands/blogger-b.js'
   
-    import '@/icons/brands/blogger-b.js'
+    import './brands/blogger.js'
   
-    import '@/icons/brands/blogger.js'
+    import './brands/blackberry.js'
   
-    import '@/icons/brands/bluetooth-b.js'
+    import './brands/bluetooth-b.js'
   
-    import '@/icons/brands/bluetooth.js'
+    import './brands/btc.js'
   
-    import '@/icons/brands/btc.js'
+    import './brands/bluetooth.js'
   
-    import '@/icons/brands/buromobelexperte.js'
+    import './brands/buysellads.js'
   
-    import '@/icons/brands/buysellads.js'
+    import './brands/buromobelexperte.js'
   
-    import '@/icons/brands/cc-amazon-pay.js'
+    import './brands/cc-amazon-pay.js'
   
-    import '@/icons/brands/cc-amex.js'
+    import './brands/cc-amex.js'
   
-    import '@/icons/brands/cc-apple-pay.js'
+    import './brands/cc-apple-pay.js'
   
-    import '@/icons/brands/cc-diners-club.js'
+    import './brands/cc-diners-club.js'
   
-    import '@/icons/brands/cc-discover.js'
+    import './brands/cc-discover.js'
   
-    import '@/icons/brands/cc-jcb.js'
+    import './brands/cc-jcb.js'
   
-    import '@/icons/brands/cc-mastercard.js'
+    import './brands/cc-mastercard.js'
   
-    import '@/icons/brands/cc-paypal.js'
+    import './brands/cc-paypal.js'
   
-    import '@/icons/brands/cc-stripe.js'
+    import './brands/cc-stripe.js'
   
-    import '@/icons/brands/cc-visa.js'
+    import './brands/cc-visa.js'
   
-    import '@/icons/brands/centercode.js'
+    import './brands/chrome.js'
   
-    import '@/icons/brands/chrome.js'
+    import './brands/cloudscale.js'
   
-    import '@/icons/brands/cloudscale.js'
+    import './brands/cloudsmith.js'
   
-    import '@/icons/brands/cloudsmith.js'
+    import './brands/amilia.js'
   
-    import '@/icons/brands/cloudversify.js'
+    import './brands/cloudversify.js'
   
-    import '@/icons/brands/codepen.js'
+    import './brands/centercode.js'
   
-    import '@/icons/brands/codiepie.js'
+    import './brands/codiepie.js'
   
-    import '@/icons/brands/connectdevelop.js'
+    import './brands/codepen.js'
   
-    import '@/icons/brands/contao.js'
+    import './brands/connectdevelop.js'
   
-    import '@/icons/brands/cpanel.js'
+    import './brands/cpanel.js'
   
-    import '@/icons/brands/creative-commons-by.js'
+    import './brands/contao.js'
   
-    import '@/icons/brands/creative-commons-nc-eu.js'
+    import './brands/creative-commons-by.js'
   
-    import '@/icons/brands/creative-commons-nc-jp.js'
+    import './brands/creative-commons-nc-eu.js'
   
-    import '@/icons/brands/creative-commons-nc.js'
+    import './brands/creative-commons-nc-jp.js'
   
-    import '@/icons/brands/creative-commons-nd.js'
+    import './brands/creative-commons-nc.js'
   
-    import '@/icons/brands/creative-commons-pd-alt.js'
+    import './brands/creative-commons-nd.js'
   
-    import '@/icons/brands/creative-commons-pd.js'
+    import './brands/creative-commons-pd-alt.js'
   
-    import '@/icons/brands/creative-commons-remix.js'
+    import './brands/creative-commons-pd.js'
   
-    import '@/icons/brands/creative-commons-sa.js'
+    import './brands/creative-commons-remix.js'
   
-    import '@/icons/brands/creative-commons-sampling-plus.js'
+    import './brands/creative-commons-sa.js'
   
-    import '@/icons/brands/creative-commons-sampling.js'
+    import './brands/creative-commons-sampling-plus.js'
   
-    import '@/icons/brands/creative-commons-share.js'
+    import './brands/creative-commons-sampling.js'
   
-    import '@/icons/brands/creative-commons.js'
+    import './brands/creative-commons-share.js'
   
-    import '@/icons/brands/css3-alt.js'
+    import './brands/creative-commons.js'
   
-    import '@/icons/brands/css3.js'
+    import './brands/css3-alt.js'
   
-    import '@/icons/brands/cuttlefish.js'
+    import './brands/css3.js'
   
-    import '@/icons/brands/d-and-d.js'
+    import './brands/cuttlefish.js'
   
-    import '@/icons/brands/delicious.js'
+    import './brands/d-and-d.js'
   
-    import '@/icons/brands/dashcube.js'
+    import './brands/dashcube.js'
   
-    import '@/icons/brands/deskpro.js'
+    import './brands/delicious.js'
   
-    import '@/icons/brands/deploydog.js'
+    import './brands/deploydog.js'
   
-    import '@/icons/brands/deviantart.js'
+    import './brands/deskpro.js'
   
-    import '@/icons/brands/digg.js'
+    import './brands/deviantart.js'
   
-    import '@/icons/brands/digital-ocean.js'
+    import './brands/digg.js'
   
-    import '@/icons/brands/discord.js'
+    import './brands/digital-ocean.js'
   
-    import '@/icons/brands/discourse.js'
+    import './brands/discord.js'
   
-    import '@/icons/brands/dochub.js'
+    import './brands/discourse.js'
   
-    import '@/icons/brands/docker.js'
+    import './brands/dochub.js'
   
-    import '@/icons/brands/draft2digital.js'
+    import './brands/draft2digital.js'
   
-    import '@/icons/brands/dribbble-square.js'
+    import './brands/docker.js'
   
-    import '@/icons/brands/dribbble.js'
+    import './brands/dribbble-square.js'
   
-    import '@/icons/brands/dropbox.js'
+    import './brands/dropbox.js'
   
-    import '@/icons/brands/drupal.js'
+    import './brands/dribbble.js'
   
-    import '@/icons/brands/dyalog.js'
+    import './brands/drupal.js'
   
-    import '@/icons/brands/earlybirds.js'
+    import './brands/dyalog.js'
   
-    import '@/icons/brands/ebay.js'
+    import './brands/earlybirds.js'
   
-    import '@/icons/brands/elementor.js'
+    import './brands/ebay.js'
   
-    import '@/icons/brands/edge.js'
+    import './brands/edge.js'
   
-    import '@/icons/brands/ello.js'
+    import './brands/elementor.js'
   
-    import '@/icons/brands/ember.js'
+    import './brands/ello.js'
   
-    import '@/icons/brands/empire.js'
+    import './brands/ember.js'
   
-    import '@/icons/brands/envira.js'
+    import './brands/empire.js'
   
-    import '@/icons/brands/erlang.js'
+    import './brands/envira.js'
   
-    import '@/icons/brands/ethereum.js'
+    import './brands/erlang.js'
   
-    import '@/icons/brands/etsy.js'
+    import './brands/ethereum.js'
   
-    import '@/icons/brands/expeditedssl.js'
+    import './brands/etsy.js'
   
-    import '@/icons/brands/facebook-f.js'
+    import './brands/expeditedssl.js'
   
-    import '@/icons/brands/facebook-messenger.js'
+    import './brands/facebook-f.js'
   
-    import '@/icons/brands/facebook-square.js'
+    import './brands/facebook-messenger.js'
   
-    import '@/icons/brands/facebook.js'
+    import './brands/facebook-square.js'
   
-    import '@/icons/brands/firefox.js'
+    import './brands/facebook.js'
   
-    import '@/icons/brands/first-order-alt.js'
+    import './brands/firefox.js'
   
-    import '@/icons/brands/first-order.js'
+    import './brands/first-order-alt.js'
   
-    import '@/icons/brands/firstdraft.js'
+    import './brands/first-order.js'
   
-    import '@/icons/brands/flickr.js'
+    import './brands/firstdraft.js'
   
-    import '@/icons/brands/flipboard.js'
+    import './brands/flickr.js'
   
-    import '@/icons/brands/fly.js'
+    import './brands/flipboard.js'
   
-    import '@/icons/brands/font-awesome-alt.js'
+    import './brands/fly.js'
   
-    import '@/icons/brands/font-awesome-flag.js'
+    import './brands/font-awesome-alt.js'
   
-    import '@/icons/brands/font-awesome-logo-full.js'
+    import './brands/font-awesome-flag.js'
   
-    import '@/icons/brands/font-awesome.js'
+    import './brands/font-awesome-logo-full.js'
   
-    import '@/icons/brands/fonticons-fi.js'
+    import './brands/font-awesome.js'
   
-    import '@/icons/brands/fonticons.js'
+    import './brands/fonticons.js'
   
-    import '@/icons/brands/fort-awesome-alt.js'
+    import './brands/fonticons-fi.js'
   
-    import '@/icons/brands/fort-awesome.js'
+    import './brands/fort-awesome-alt.js'
   
-    import '@/icons/brands/forumbee.js'
+    import './brands/fort-awesome.js'
   
-    import '@/icons/brands/foursquare.js'
+    import './brands/forumbee.js'
   
-    import '@/icons/brands/free-code-camp.js'
+    import './brands/foursquare.js'
   
-    import '@/icons/brands/freebsd.js'
+    import './brands/free-code-camp.js'
   
-    import '@/icons/brands/fulcrum.js'
+    import './brands/freebsd.js'
   
-    import '@/icons/brands/galactic-republic.js'
+    import './brands/fulcrum.js'
   
-    import '@/icons/brands/galactic-senate.js'
+    import './brands/galactic-republic.js'
   
-    import '@/icons/brands/get-pocket.js'
+    import './brands/galactic-senate.js'
   
-    import '@/icons/brands/gg-circle.js'
+    import './brands/get-pocket.js'
   
-    import '@/icons/brands/gg.js'
+    import './brands/gg-circle.js'
   
-    import '@/icons/brands/git-square.js'
+    import './brands/gg.js'
   
-    import '@/icons/brands/git.js'
+    import './brands/git.js'
   
-    import '@/icons/brands/github-alt.js'
+    import './brands/github-alt.js'
   
-    import '@/icons/brands/github-square.js'
+    import './brands/git-square.js'
   
-    import '@/icons/brands/github.js'
+    import './brands/github-square.js'
   
-    import '@/icons/brands/gitkraken.js'
+    import './brands/github.js'
   
-    import '@/icons/brands/gitlab.js'
+    import './brands/gitkraken.js'
   
-    import '@/icons/brands/gitter.js'
+    import './brands/gitlab.js'
   
-    import '@/icons/brands/glide-g.js'
+    import './brands/gitter.js'
   
-    import '@/icons/brands/glide.js'
+    import './brands/glide-g.js'
   
-    import '@/icons/brands/gofore.js'
+    import './brands/glide.js'
   
-    import '@/icons/brands/goodreads-g.js'
+    import './brands/gofore.js'
   
-    import '@/icons/brands/goodreads.js'
+    import './brands/goodreads-g.js'
   
-    import '@/icons/brands/google-drive.js'
+    import './brands/goodreads.js'
   
-    import '@/icons/brands/google-play.js'
+    import './brands/google-drive.js'
   
-    import '@/icons/brands/google-plus-g.js'
+    import './brands/google-play.js'
   
-    import '@/icons/brands/google-plus-square.js'
+    import './brands/google-plus-g.js'
   
-    import '@/icons/brands/google-plus.js'
+    import './brands/google-plus-square.js'
   
-    import '@/icons/brands/google-wallet.js'
+    import './brands/google-wallet.js'
   
-    import '@/icons/brands/google.js'
+    import './brands/google-plus.js'
   
-    import '@/icons/brands/gratipay.js'
+    import './brands/google.js'
   
-    import '@/icons/brands/grav.js'
+    import './brands/gratipay.js'
   
-    import '@/icons/brands/gripfire.js'
+    import './brands/grav.js'
   
-    import '@/icons/brands/grunt.js'
+    import './brands/gripfire.js'
   
-    import '@/icons/brands/gulp.js'
+    import './brands/grunt.js'
   
-    import '@/icons/brands/hacker-news-square.js'
+    import './brands/gulp.js'
   
-    import '@/icons/brands/hacker-news.js'
+    import './brands/hacker-news-square.js'
   
-    import '@/icons/brands/hackerrank.js'
+    import './brands/hacker-news.js'
   
-    import '@/icons/brands/hips.js'
+    import './brands/hackerrank.js'
   
-    import '@/icons/brands/hire-a-helper.js'
+    import './brands/hips.js'
   
-    import '@/icons/brands/hooli.js'
+    import './brands/hire-a-helper.js'
   
-    import '@/icons/brands/hornbill.js'
+    import './brands/hornbill.js'
   
-    import '@/icons/brands/hotjar.js'
+    import './brands/hooli.js'
   
-    import '@/icons/brands/houzz.js'
+    import './brands/houzz.js'
   
-    import '@/icons/brands/html5.js'
+    import './brands/hotjar.js'
   
-    import '@/icons/brands/hubspot.js'
+    import './brands/html5.js'
   
-    import '@/icons/brands/imdb.js'
+    import './brands/hubspot.js'
   
-    import '@/icons/brands/instagram.js'
+    import './brands/imdb.js'
   
-    import '@/icons/brands/internet-explorer.js'
+    import './brands/instagram.js'
   
-    import '@/icons/brands/ioxhost.js'
+    import './brands/internet-explorer.js'
   
-    import '@/icons/brands/itunes-note.js'
+    import './brands/itunes.js'
   
-    import '@/icons/brands/itunes.js'
+    import './brands/java.js'
   
-    import '@/icons/brands/java.js'
+    import './brands/jedi-order.js'
   
-    import '@/icons/brands/jedi-order.js'
+    import './brands/jenkins.js'
   
-    import '@/icons/brands/joget.js'
+    import './brands/ioxhost.js'
   
-    import '@/icons/brands/jenkins.js'
+    import './brands/joget.js'
   
-    import '@/icons/brands/js-square.js'
+    import './brands/joomla.js'
   
-    import '@/icons/brands/joomla.js'
+    import './brands/js.js'
   
-    import '@/icons/brands/js.js'
+    import './brands/jsfiddle.js'
   
-    import '@/icons/brands/jsfiddle.js'
+    import './brands/kaggle.js'
   
-    import '@/icons/brands/kaggle.js'
+    import './brands/keybase.js'
   
-    import '@/icons/brands/keybase.js'
+    import './brands/keycdn.js'
   
-    import '@/icons/brands/keycdn.js'
+    import './brands/kickstarter-k.js'
   
-    import '@/icons/brands/kickstarter-k.js'
+    import './brands/kickstarter.js'
   
-    import '@/icons/brands/kickstarter.js'
+    import './brands/korvue.js'
   
-    import '@/icons/brands/korvue.js'
+    import './brands/laravel.js'
   
-    import '@/icons/brands/laravel.js'
+    import './brands/lastfm.js'
   
-    import '@/icons/brands/lastfm-square.js'
+    import './brands/leanpub.js'
   
-    import '@/icons/brands/lastfm.js'
+    import './brands/js-square.js'
   
-    import '@/icons/brands/leanpub.js'
+    import './brands/less.js'
   
-    import '@/icons/brands/less.js'
+    import './brands/line.js'
   
-    import '@/icons/brands/line.js'
+    import './brands/linkedin-in.js'
   
-    import '@/icons/brands/linkedin-in.js'
+    import './brands/linode.js'
   
-    import '@/icons/brands/linkedin.js'
+    import './brands/linkedin.js'
   
-    import '@/icons/brands/linode.js'
+    import './brands/linux.js'
   
-    import '@/icons/brands/linux.js'
+    import './brands/lyft.js'
   
-    import '@/icons/brands/lyft.js'
+    import './brands/magento.js'
   
-    import '@/icons/brands/magento.js'
+    import './brands/mailchimp.js'
   
-    import '@/icons/brands/mailchimp.js'
+    import './brands/markdown.js'
   
-    import '@/icons/brands/mandalorian.js'
+    import './brands/mandalorian.js'
   
-    import '@/icons/brands/markdown.js'
+    import './brands/maxcdn.js'
   
-    import '@/icons/brands/maxcdn.js'
+    import './brands/medapps.js'
   
-    import '@/icons/brands/mastodon.js'
+    import './brands/medium-m.js'
   
-    import '@/icons/brands/medium-m.js'
+    import './brands/medium.js'
   
-    import '@/icons/brands/medapps.js'
+    import './brands/medrt.js'
   
-    import '@/icons/brands/medium.js'
+    import './brands/meetup.js'
   
-    import '@/icons/brands/medrt.js'
+    import './brands/megaport.js'
   
-    import '@/icons/brands/meetup.js'
+    import './brands/microsoft.js'
   
-    import '@/icons/brands/megaport.js'
+    import './brands/mix.js'
   
-    import '@/icons/brands/microsoft.js'
+    import './brands/mixcloud.js'
   
-    import '@/icons/brands/mix.js'
+    import './brands/mizuni.js'
   
-    import '@/icons/brands/mixcloud.js'
+    import './brands/modx.js'
   
-    import '@/icons/brands/modx.js'
+    import './brands/monero.js'
   
-    import '@/icons/brands/mizuni.js'
+    import './brands/napster.js'
   
-    import '@/icons/brands/monero.js'
+    import './brands/neos.js'
   
-    import '@/icons/brands/napster.js'
+    import './brands/nimblr.js'
   
-    import '@/icons/brands/neos.js'
+    import './brands/nintendo-switch.js'
   
-    import '@/icons/brands/nimblr.js'
+    import './brands/node-js.js'
   
-    import '@/icons/brands/nintendo-switch.js'
+    import './brands/node.js'
   
-    import '@/icons/brands/node.js'
+    import './brands/npm.js'
   
-    import '@/icons/brands/node-js.js'
+    import './brands/odnoklassniki-square.js'
   
-    import '@/icons/brands/npm.js'
+    import './brands/ns8.js'
   
-    import '@/icons/brands/ns8.js'
+    import './brands/nutritionix.js'
   
-    import '@/icons/brands/nutritionix.js'
+    import './brands/odnoklassniki.js'
   
-    import '@/icons/brands/odnoklassniki-square.js'
+    import './brands/opencart.js'
   
-    import '@/icons/brands/odnoklassniki.js'
+    import './brands/openid.js'
   
-    import '@/icons/brands/opencart.js'
+    import './brands/opera.js'
   
-    import '@/icons/brands/old-republic.js'
+    import './brands/optin-monster.js'
   
-    import '@/icons/brands/openid.js'
+    import './brands/osi.js'
   
-    import '@/icons/brands/opera.js'
+    import './brands/page4.js'
   
-    import '@/icons/brands/optin-monster.js'
+    import './brands/pagelines.js'
   
-    import '@/icons/brands/osi.js'
+    import './brands/palfed.js'
   
-    import '@/icons/brands/page4.js'
+    import './brands/patreon.js'
   
-    import '@/icons/brands/pagelines.js'
+    import './brands/old-republic.js'
   
-    import '@/icons/brands/palfed.js'
+    import './brands/paypal.js'
   
-    import '@/icons/brands/patreon.js'
+    import './brands/periscope.js'
   
-    import '@/icons/brands/paypal.js'
+    import './brands/phabricator.js'
   
-    import '@/icons/brands/periscope.js'
+    import './brands/phoenix-framework.js'
   
-    import '@/icons/brands/phabricator.js'
+    import './brands/phoenix-squadron.js'
   
-    import '@/icons/brands/phoenix-framework.js'
+    import './brands/pied-piper-alt.js'
   
-    import '@/icons/brands/phoenix-squadron.js'
+    import './brands/php.js'
   
-    import '@/icons/brands/php.js'
+    import './brands/pied-piper-hat.js'
   
-    import '@/icons/brands/pied-piper-alt.js'
+    import './brands/pinterest-p.js'
   
-    import '@/icons/brands/pied-piper-hat.js'
+    import './brands/pied-piper.js'
   
-    import '@/icons/brands/pied-piper-pp.js'
+    import './brands/pied-piper-pp.js'
   
-    import '@/icons/brands/pied-piper.js'
+    import './brands/pinterest-square.js'
   
-    import '@/icons/brands/pinterest-p.js'
+    import './brands/pinterest.js'
   
-    import '@/icons/brands/pinterest-square.js'
+    import './brands/playstation.js'
   
-    import '@/icons/brands/pinterest.js'
+    import './brands/pushed.js'
   
-    import '@/icons/brands/playstation.js'
+    import './brands/python.js'
   
-    import '@/icons/brands/product-hunt.js'
+    import './brands/product-hunt.js'
   
-    import '@/icons/brands/pushed.js'
+    import './brands/quinscape.js'
   
-    import '@/icons/brands/python.js'
+    import './brands/quora.js'
   
-    import '@/icons/brands/qq.js'
+    import './brands/r-project.js'
   
-    import '@/icons/brands/quinscape.js'
+    import './brands/qq.js'
   
-    import '@/icons/brands/quora.js'
+    import './brands/ravelry.js'
   
-    import '@/icons/brands/r-project.js'
+    import './brands/readme.js'
   
-    import '@/icons/brands/ravelry.js'
+    import './brands/mastodon.js'
   
-    import '@/icons/brands/react.js'
+    import './brands/react.js'
   
-    import '@/icons/brands/readme.js'
+    import './brands/red-river.js'
   
-    import '@/icons/brands/rebel.js'
+    import './brands/reddit-alien.js'
   
-    import '@/icons/brands/red-river.js'
+    import './brands/reddit.js'
   
-    import '@/icons/brands/reddit-alien.js'
+    import './brands/reddit-square.js'
   
-    import '@/icons/brands/reddit-square.js'
+    import './brands/rendact.js'
   
-    import '@/icons/brands/reddit.js'
+    import './brands/renren.js'
   
-    import '@/icons/brands/rendact.js'
+    import './brands/researchgate.js'
   
-    import '@/icons/brands/renren.js'
+    import './brands/resolving.js'
   
-    import '@/icons/brands/replyd.js'
+    import './brands/replyd.js'
   
-    import '@/icons/brands/researchgate.js'
+    import './brands/rev.js'
   
-    import '@/icons/brands/resolving.js'
+    import './brands/rockrms.js'
   
-    import '@/icons/brands/rev.js'
+    import './brands/rocketchat.js'
   
-    import '@/icons/brands/rocketchat.js'
+    import './brands/safari.js'
   
-    import '@/icons/brands/rockrms.js'
+    import './brands/schlix.js'
   
-    import '@/icons/brands/safari.js'
+    import './brands/sass.js'
   
-    import '@/icons/brands/sass.js'
+    import './brands/scribd.js'
   
-    import '@/icons/brands/schlix.js'
+    import './brands/searchengin.js'
   
-    import '@/icons/brands/scribd.js'
+    import './brands/sellcast.js'
   
-    import '@/icons/brands/searchengin.js'
+    import './brands/sellsy.js'
   
-    import '@/icons/brands/sellcast.js'
+    import './brands/servicestack.js'
   
-    import '@/icons/brands/sellsy.js'
+    import './brands/shirtsinbulk.js'
   
-    import '@/icons/brands/servicestack.js'
+    import './brands/shopware.js'
   
-    import '@/icons/brands/shirtsinbulk.js'
+    import './brands/simplybuilt.js'
   
-    import '@/icons/brands/shopware.js'
+    import './brands/sistrix.js'
   
-    import '@/icons/brands/simplybuilt.js'
+    import './brands/sith.js'
   
-    import '@/icons/brands/sistrix.js'
+    import './brands/skyatlas.js'
   
-    import '@/icons/brands/sith.js'
+    import './brands/skype.js'
   
-    import '@/icons/brands/skyatlas.js'
+    import './brands/slack.js'
   
-    import '@/icons/brands/skype.js'
+    import './brands/slack-hash.js'
   
-    import '@/icons/brands/slack-hash.js'
+    import './brands/slideshare.js'
   
-    import '@/icons/brands/slack.js'
+    import './brands/snapchat-ghost.js'
   
-    import '@/icons/brands/slideshare.js'
+    import './brands/snapchat.js'
   
-    import '@/icons/brands/snapchat-ghost.js'
+    import './brands/snapchat-square.js'
   
-    import '@/icons/brands/snapchat-square.js'
+    import './brands/soundcloud.js'
   
-    import '@/icons/brands/snapchat.js'
+    import './brands/speakap.js'
   
-    import '@/icons/brands/soundcloud.js'
+    import './brands/spotify.js'
   
-    import '@/icons/brands/speakap.js'
+    import './brands/squarespace.js'
   
-    import '@/icons/brands/spotify.js'
+    import './brands/stack-exchange.js'
   
-    import '@/icons/brands/squarespace.js'
+    import './brands/stack-overflow.js'
   
-    import '@/icons/brands/stack-exchange.js'
+    import './brands/staylinked.js'
   
-    import '@/icons/brands/stack-overflow.js'
+    import './brands/steam-square.js'
   
-    import '@/icons/brands/staylinked.js'
+    import './brands/steam-symbol.js'
   
-    import '@/icons/brands/steam-square.js'
+    import './brands/steam.js'
   
-    import '@/icons/brands/steam-symbol.js'
+    import './brands/sticker-mule.js'
   
-    import '@/icons/brands/steam.js'
+    import './brands/strava.js'
   
-    import '@/icons/brands/sticker-mule.js'
+    import './brands/stripe-s.js'
   
-    import '@/icons/brands/strava.js'
+    import './brands/stripe.js'
   
-    import '@/icons/brands/stripe-s.js'
+    import './brands/studiovinari.js'
   
-    import '@/icons/brands/stripe.js'
+    import './brands/stumbleupon-circle.js'
   
-    import '@/icons/brands/studiovinari.js'
+    import './brands/stumbleupon.js'
   
-    import '@/icons/brands/stumbleupon-circle.js'
+    import './brands/superpowers.js'
   
-    import '@/icons/brands/stumbleupon.js'
+    import './brands/supple.js'
   
-    import '@/icons/brands/superpowers.js'
+    import './brands/teamspeak.js'
   
-    import '@/icons/brands/supple.js'
+    import './brands/telegram.js'
   
-    import '@/icons/brands/teamspeak.js'
+    import './brands/telegram-plane.js'
   
-    import '@/icons/brands/telegram-plane.js'
+    import './brands/tencent-weibo.js'
   
-    import '@/icons/brands/telegram.js'
+    import './brands/themeco.js'
   
-    import '@/icons/brands/tencent-weibo.js'
+    import './brands/themeisle.js'
   
-    import '@/icons/brands/themeco.js'
+    import './brands/trade-federation.js'
   
-    import '@/icons/balance-scale.js'
+    import './brands/trello.js'
   
-    import '@/icons/brands/themeisle.js'
+    import './brands/tripadvisor.js'
   
-    import '@/icons/brands/trade-federation.js'
+    import './brands/tumblr-square.js'
   
-    import '@/icons/brands/trello.js'
+    import './brands/tumblr.js'
   
-    import '@/icons/brands/tripadvisor.js'
+    import './brands/twitch.js'
   
-    import '@/icons/brands/tumblr-square.js'
+    import './brands/twitter-square.js'
   
-    import '@/icons/brands/tumblr.js'
+    import './brands/typo3.js'
   
-    import '@/icons/brands/twitch.js'
+    import './brands/twitter.js'
   
-    import '@/icons/brands/twitter-square.js'
+    import './brands/uber.js'
   
-    import '@/icons/brands/twitter.js'
+    import './brands/uikit.js'
   
-    import '@/icons/brands/typo3.js'
+    import './brands/uniregistry.js'
   
-    import '@/icons/brands/uber.js'
+    import './brands/untappd.js'
   
-    import '@/icons/brands/uikit.js'
+    import './brands/usb.js'
   
-    import '@/icons/brands/uniregistry.js'
+    import './brands/ussunnah.js'
   
-    import '@/icons/brands/untappd.js'
+    import './brands/vaadin.js'
   
-    import '@/icons/brands/usb.js'
+    import './brands/viacoin.js'
   
-    import '@/icons/brands/vaadin.js'
+    import './brands/viadeo-square.js'
   
-    import '@/icons/brands/ussunnah.js'
+    import './brands/viadeo.js'
   
-    import '@/icons/brands/viacoin.js'
+    import './brands/viber.js'
   
-    import '@/icons/brands/viadeo-square.js'
+    import './brands/vimeo-square.js'
   
-    import '@/icons/brands/viadeo.js'
+    import './brands/vimeo-v.js'
   
-    import '@/icons/brands/viber.js'
+    import './brands/vimeo.js'
   
-    import '@/icons/brands/vimeo-square.js'
+    import './brands/vine.js'
   
-    import '@/icons/brands/vimeo-v.js'
+    import './brands/vk.js'
   
-    import '@/icons/brands/vimeo.js'
+    import './brands/vnv.js'
   
-    import '@/icons/brands/vine.js'
+    import './brands/vuejs.js'
   
-    import '@/icons/brands/vk.js'
+    import './brands/weebly.js'
   
-    import '@/icons/brands/vnv.js'
+    import './brands/weibo.js'
   
-    import '@/icons/brands/vuejs.js'
+    import './brands/whatsapp-square.js'
   
-    import '@/icons/brands/weebly.js'
+    import './brands/weixin.js'
   
-    import '@/icons/brands/weibo.js'
+    import './brands/whatsapp.js'
   
-    import '@/icons/brands/whatsapp-square.js'
+    import './brands/whmcs.js'
   
-    import '@/icons/brands/weixin.js'
+    import './brands/wikipedia-w.js'
   
-    import '@/icons/brands/whatsapp.js'
+    import './brands/windows.js'
   
-    import '@/icons/brands/whmcs.js'
+    import './brands/wix.js'
   
-    import '@/icons/brands/wikipedia-w.js'
+    import './brands/wolf-pack-battalion.js'
   
-    import '@/icons/brands/windows.js'
+    import './brands/wordpress-simple.js'
   
-    import '@/icons/brands/wix.js'
+    import './brands/wordpress.js'
   
-    import '@/icons/brands/wolf-pack-battalion.js'
+    import './brands/wpbeginner.js'
   
-    import '@/icons/brands/wordpress-simple.js'
+    import './brands/wpexplorer.js'
   
-    import '@/icons/brands/wpbeginner.js'
+    import './brands/wpforms.js'
   
-    import '@/icons/brands/wordpress.js'
+    import './brands/xbox.js'
   
-    import '@/icons/brands/wpexplorer.js'
+    import './brands/xing-square.js'
   
-    import '@/icons/brands/wpforms.js'
+    import './brands/xing.js'
   
-    import '@/icons/brands/xbox.js'
+    import './brands/y-combinator.js'
   
-    import '@/icons/brands/xing-square.js'
+    import './brands/yahoo.js'
   
-    import '@/icons/brands/xing.js'
+    import './brands/yandex-international.js'
   
-    import '@/icons/brands/y-combinator.js'
+    import './brands/yandex.js'
   
-    import '@/icons/brands/yahoo.js'
+    import './brands/yelp.js'
   
-    import '@/icons/brands/yandex-international.js'
+    import './brands/yoast.js'
   
-    import '@/icons/brands/yandex.js'
+    import './brands/youtube-square.js'
   
-    import '@/icons/brands/yelp.js'
+    import './brands/youtube.js'
   
-    import '@/icons/brands/yoast.js'
+    import './brands/zhihu.js'
   
-    import '@/icons/brands/youtube-square.js'
+    import './briefcase-medical.js'
   
-    import '@/icons/brands/youtube.js'
+    import './briefcase.js'
   
-    import '@/icons/brands/zhihu.js'
+    import './broadcast-tower.js'
   
-    import '@/icons/briefcase-medical.js'
+    import './broom.js'
   
-    import '@/icons/briefcase.js'
+    import './brush.js'
   
-    import '@/icons/broadcast-tower.js'
+    import './bug.js'
   
-    import '@/icons/broom.js'
+    import './building.js'
   
-    import '@/icons/brush.js'
+    import './bullhorn.js'
   
-    import '@/icons/bug.js'
+    import './bullseye.js'
   
-    import '@/icons/building.js'
+    import './burn.js'
   
-    import '@/icons/bullhorn.js'
+    import './bus.js'
   
-    import '@/icons/bullseye.js'
+    import './bus-alt.js'
   
-    import '@/icons/burn.js'
+    import './calculator.js'
   
-    import '@/icons/bus-alt.js'
+    import './calendar-alt.js'
   
-    import '@/icons/bus.js'
+    import './calendar-check.js'
   
-    import '@/icons/calculator.js'
+    import './calendar-plus.js'
   
-    import '@/icons/calendar-alt.js'
+    import './calendar-times.js'
   
-    import '@/icons/calendar-check.js'
+    import './calendar.js'
   
-    import '@/icons/calendar-minus.js'
+    import './camera-retro.js'
   
-    import '@/icons/calendar-plus.js'
+    import './camera.js'
   
-    import '@/icons/calendar-times.js'
+    import './cannabis.js'
   
-    import '@/icons/calendar.js'
+    import './calendar-minus.js'
   
-    import '@/icons/camera-retro.js'
+    import './capsules.js'
   
-    import '@/icons/camera.js'
+    import './car-alt.js'
   
-    import '@/icons/cannabis.js'
+    import './car-battery.js'
   
-    import '@/icons/capsules.js'
+    import './car-side.js'
   
-    import '@/icons/car-alt.js'
+    import './car-crash.js'
   
-    import '@/icons/car-battery.js'
+    import './car.js'
   
-    import '@/icons/car-crash.js'
+    import './caret-down.js'
   
-    import '@/icons/car-side.js'
+    import './caret-left.js'
   
-    import '@/icons/car.js'
+    import './caret-right.js'
   
-    import '@/icons/caret-down.js'
+    import './caret-square-down.js'
   
-    import '@/icons/caret-left.js'
+    import './caret-square-left.js'
   
-    import '@/icons/caret-right.js'
+    import './caret-square-up.js'
   
-    import '@/icons/caret-square-down.js'
+    import './caret-square-right.js'
   
-    import '@/icons/caret-square-left.js'
+    import './caret-up.js'
   
-    import '@/icons/caret-square-right.js'
+    import './cart-plus.js'
   
-    import '@/icons/caret-square-up.js'
+    import './certificate.js'
   
-    import '@/icons/caret-up.js'
+    import './chalkboard-teacher.js'
   
-    import '@/icons/cart-arrow-down.js'
+    import './cart-arrow-down.js'
   
-    import '@/icons/cart-plus.js'
+    import './charging-station.js'
   
-    import '@/icons/certificate.js'
+    import './chalkboard.js'
   
-    import '@/icons/chalkboard-teacher.js'
+    import './chart-area.js'
   
-    import '@/icons/chalkboard.js'
+    import './chart-bar.js'
   
-    import '@/icons/charging-station.js'
+    import './chart-line.js'
   
-    import '@/icons/chart-area.js'
+    import './check-circle.js'
   
-    import '@/icons/chart-bar.js'
+    import './check-double.js'
   
-    import '@/icons/chart-line.js'
+    import './chart-pie.js'
   
-    import '@/icons/chart-pie.js'
+    import './check-square.js'
   
-    import '@/icons/check-circle.js'
+    import './chess-bishop.js'
   
-    import '@/icons/check-double.js'
+    import './check.js'
   
-    import '@/icons/check-square.js'
+    import './chess-board.js'
   
-    import '@/icons/check.js'
+    import './chess-king.js'
   
-    import '@/icons/chess-bishop.js'
+    import './chess-knight.js'
   
-    import '@/icons/chess-board.js'
+    import './chess-pawn.js'
   
-    import '@/icons/chess-king.js'
+    import './chess-queen.js'
   
-    import '@/icons/chess-knight.js'
+    import './brands/lastfm-square.js'
   
-    import '@/icons/chess-pawn.js'
+    import './chess.js'
   
-    import '@/icons/chess-queen.js'
+    import './chevron-circle-down.js'
   
-    import '@/icons/chess-rook.js'
+    import './chevron-circle-left.js'
   
-    import '@/icons/chess.js'
+    import './chevron-circle-right.js'
   
-    import '@/icons/chevron-circle-down.js'
+    import './chevron-circle-up.js'
   
-    import '@/icons/chevron-circle-left.js'
+    import './chevron-down.js'
   
-    import '@/icons/chevron-circle-right.js'
+    import './chevron-left.js'
   
-    import '@/icons/chevron-circle-up.js'
+    import './chevron-right.js'
   
-    import '@/icons/chevron-down.js'
+    import './chevron-up.js'
   
-    import '@/icons/chevron-left.js'
+    import './child.js'
   
-    import '@/icons/chevron-right.js'
+    import './church.js'
   
-    import '@/icons/chevron-up.js'
+    import './chess-rook.js'
   
-    import '@/icons/child.js'
+    import './circle-notch.js'
   
-    import '@/icons/church.js'
+    import './circle.js'
   
-    import '@/icons/circle-notch.js'
+    import './clipboard-check.js'
   
-    import '@/icons/circle.js'
+    import './clipboard-list.js'
   
-    import '@/icons/clipboard-check.js'
+    import './clipboard.js'
   
-    import '@/icons/clipboard-list.js'
+    import './clock.js'
   
-    import '@/icons/clipboard.js'
+    import './clone.js'
   
-    import '@/icons/clock.js'
+    import './closed-captioning.js'
   
-    import '@/icons/clone.js'
+    import './cloud-download-alt.js'
   
-    import '@/icons/closed-captioning.js'
+    import './cloud-upload-alt.js'
   
-    import '@/icons/cloud-download-alt.js'
+    import './cloud.js'
   
-    import '@/icons/cloud-upload-alt.js'
+    import './cocktail.js'
   
-    import '@/icons/cloud.js'
+    import './code-branch.js'
   
-    import '@/icons/cocktail.js'
+    import './code.js'
   
-    import '@/icons/code-branch.js'
+    import './coffee.js'
   
-    import '@/icons/code.js'
+    import './cog.js'
   
-    import '@/icons/coffee.js'
+    import './cogs.js'
   
-    import '@/icons/cog.js'
+    import './coins.js'
   
-    import '@/icons/cogs.js'
+    import './columns.js'
   
-    import '@/icons/columns.js'
+    import './comment-alt.js'
   
-    import '@/icons/comment-alt.js'
+    import './comment-dots.js'
   
-    import '@/icons/coins.js'
+    import './comment-slash.js'
   
-    import '@/icons/comment-dots.js'
+    import './comment.js'
   
-    import '@/icons/comment-slash.js'
+    import './comments.js'
   
-    import '@/icons/comment.js'
+    import './compact-disc.js'
   
-    import '@/icons/comments.js'
+    import './compass.js'
   
-    import '@/icons/compact-disc.js'
+    import './compress.js'
   
-    import '@/icons/compress.js'
+    import './concierge-bell.js'
   
-    import '@/icons/compass.js'
+    import './cookie-bite.js'
   
-    import '@/icons/concierge-bell.js'
+    import './cookie.js'
   
-    import '@/icons/cookie-bite.js'
+    import './copy.js'
   
-    import '@/icons/cookie.js'
+    import './copyright.js'
   
-    import '@/icons/copy.js'
+    import './couch.js'
   
-    import '@/icons/copyright.js'
+    import './credit-card.js'
   
-    import '@/icons/couch.js'
+    import './crop-alt.js'
   
-    import '@/icons/credit-card.js'
+    import './crop.js'
   
-    import '@/icons/crop-alt.js'
+    import './crosshairs.js'
   
-    import '@/icons/crop.js'
+    import './crow.js'
   
-    import '@/icons/crosshairs.js'
+    import './crown.js'
   
-    import '@/icons/crow.js'
+    import './cube.js'
   
-    import '@/icons/crown.js'
+    import './cubes.js'
   
-    import '@/icons/cube.js'
+    import './cut.js'
   
-    import '@/icons/cubes.js'
+    import './database.js'
   
-    import '@/icons/cut.js'
+    import './deaf.js'
   
-    import '@/icons/database.js'
+    import './desktop.js'
   
-    import '@/icons/deaf.js'
+    import './diagnoses.js'
   
-    import '@/icons/desktop.js'
+    import './dice-five.js'
   
-    import '@/icons/diagnoses.js'
+    import './dice-four.js'
   
-    import '@/icons/dice-five.js'
+    import './dice-one.js'
   
-    import '@/icons/dice-four.js'
+    import './dice-six.js'
   
-    import '@/icons/dice-one.js'
+    import './dice-three.js'
   
-    import '@/icons/dice-six.js'
+    import './dice-two.js'
   
-    import '@/icons/dice-three.js'
+    import './dice.js'
   
-    import '@/icons/dice-two.js'
+    import './directions.js'
   
-    import '@/icons/dice.js'
+    import './digital-tachograph.js'
   
-    import '@/icons/digital-tachograph.js'
+    import './divide.js'
   
-    import '@/icons/directions.js'
+    import './dizzy.js'
   
-    import '@/icons/divide.js'
+    import './dna.js'
   
-    import '@/icons/dizzy.js'
+    import './dollar-sign.js'
   
-    import '@/icons/dna.js'
+    import './dolly-flatbed.js'
   
-    import '@/icons/dollar-sign.js'
+    import './dolly.js'
   
-    import '@/icons/dolly-flatbed.js'
+    import './donate.js'
   
-    import '@/icons/dolly.js'
+    import './door-closed.js'
   
-    import '@/icons/donate.js'
+    import './door-open.js'
   
-    import '@/icons/door-closed.js'
+    import './dot-circle.js'
   
-    import '@/icons/door-open.js'
+    import './dove.js'
   
-    import '@/icons/dot-circle.js'
+    import './download.js'
   
-    import '@/icons/dove.js'
+    import './drafting-compass.js'
   
-    import '@/icons/download.js'
+    import './draw-polygon.js'
   
-    import '@/icons/drafting-compass.js'
+    import './drum-steelpan.js'
   
-    import '@/icons/draw-polygon.js'
+    import './drum.js'
   
-    import '@/icons/drum-steelpan.js'
+    import './dumbbell.js'
   
-    import '@/icons/drum.js'
+    import './edit.js'
   
-    import '@/icons/dumbbell.js'
+    import './eject.js'
   
-    import '@/icons/edit.js'
+    import './ellipsis-h.js'
   
-    import '@/icons/eject.js'
+    import './ellipsis-v.js'
   
-    import '@/icons/ellipsis-h.js'
+    import './envelope-open.js'
   
-    import '@/icons/ellipsis-v.js'
+    import './envelope-square.js'
   
-    import '@/icons/envelope-open.js'
+    import './envelope.js'
   
-    import '@/icons/envelope-square.js'
+    import './equals.js'
   
-    import '@/icons/envelope.js'
+    import './eraser.js'
   
-    import '@/icons/equals.js'
+    import './exchange-alt.js'
   
-    import '@/icons/eraser.js'
+    import './euro-sign.js'
   
-    import '@/icons/euro-sign.js'
+    import './exclamation-circle.js'
   
-    import '@/icons/exchange-alt.js'
+    import './exclamation.js'
   
-    import '@/icons/exclamation-circle.js'
+    import './exclamation-triangle.js'
   
-    import '@/icons/exclamation.js'
+    import './expand-arrows-alt.js'
   
-    import '@/icons/exclamation-triangle.js'
+    import './expand.js'
   
-    import '@/icons/expand-arrows-alt.js'
+    import './external-link-square-alt.js'
   
-    import '@/icons/expand.js'
+    import './eye-dropper.js'
   
-    import '@/icons/external-link-alt.js'
+    import './eye.js'
   
-    import '@/icons/eye-dropper.js'
+    import './eye-slash.js'
   
-    import '@/icons/external-link-square-alt.js'
+    import './fast-backward.js'
   
-    import '@/icons/eye-slash.js'
+    import './fast-forward.js'
   
-    import '@/icons/eye.js'
+    import './fax.js'
   
-    import '@/icons/fast-backward.js'
+    import './feather-alt.js'
   
-    import '@/icons/fast-forward.js'
+    import './feather.js'
   
-    import '@/icons/fax.js'
+    import './female.js'
   
-    import '@/icons/feather-alt.js'
+    import './fighter-jet.js'
   
-    import '@/icons/feather.js'
+    import './file-alt.js'
   
-    import '@/icons/female.js'
+    import './file-archive.js'
   
-    import '@/icons/fighter-jet.js'
+    import './file-audio.js'
   
-    import '@/icons/file-alt.js'
+    import './file-code.js'
   
-    import '@/icons/file-archive.js'
+    import './file-contract.js'
   
-    import '@/icons/file-audio.js'
+    import './file-download.js'
   
-    import '@/icons/file-code.js'
+    import './file-excel.js'
   
-    import '@/icons/file-contract.js'
+    import './file-export.js'
   
-    import '@/icons/file-download.js'
+    import './file-image.js'
   
-    import '@/icons/file-excel.js'
+    import './file-import.js'
   
-    import '@/icons/file-export.js'
+    import './file-invoice.js'
   
-    import '@/icons/file-image.js'
+    import './file-invoice-dollar.js'
   
-    import '@/icons/file-import.js'
+    import './file-medical-alt.js'
   
-    import '@/icons/file-invoice-dollar.js'
+    import './file-medical.js'
   
-    import '@/icons/file-invoice.js'
+    import './file-powerpoint.js'
   
-    import '@/icons/file-medical-alt.js'
+    import './file-pdf.js'
   
-    import '@/icons/file-medical.js'
+    import './file-prescription.js'
   
-    import '@/icons/file-pdf.js'
+    import './file-signature.js'
   
-    import '@/icons/file-powerpoint.js'
+    import './external-link-alt.js'
   
-    import '@/icons/file-prescription.js'
+    import './file-upload.js'
   
-    import '@/icons/file-signature.js'
+    import './file-video.js'
   
-    import '@/icons/file-upload.js'
+    import './file-word.js'
   
-    import '@/icons/file-video.js'
+    import './fill-drip.js'
   
-    import '@/icons/file-word.js'
+    import './file.js'
   
-    import '@/icons/file.js'
+    import './filter.js'
   
-    import '@/icons/fill-drip.js'
+    import './fingerprint.js'
   
-    import '@/icons/fill.js'
+    import './fill.js'
   
-    import '@/icons/film.js'
+    import './fire.js'
   
-    import '@/icons/filter.js'
+    import './fire-extinguisher.js'
   
-    import '@/icons/fingerprint.js'
+    import './first-aid.js'
   
-    import '@/icons/fire-extinguisher.js'
+    import './fish.js'
   
-    import '@/icons/fire.js'
+    import './flag-checkered.js'
   
-    import '@/icons/first-aid.js'
+    import './flag.js'
   
-    import '@/icons/fish.js'
+    import './brands/rebel.js'
   
-    import '@/icons/flag-checkered.js'
+    import './flask.js'
   
-    import '@/icons/flag.js'
+    import './flushed.js'
   
-    import '@/icons/flask.js'
+    import './folder-open.js'
   
-    import '@/icons/flushed.js'
+    import './font-awesome-logo-full.js'
   
-    import '@/icons/folder-open.js'
+    import './font.js'
   
-    import '@/icons/folder.js'
+    import './folder.js'
   
-    import '@/icons/font-awesome-logo-full.js'
+    import './football-ball.js'
   
-    import '@/icons/font.js'
+    import './frog.js'
   
-    import '@/icons/football-ball.js'
+    import './forward.js'
   
-    import '@/icons/forward.js'
+    import './frown-open.js'
   
-    import '@/icons/frog.js'
+    import './frown.js'
   
-    import '@/icons/frown-open.js'
+    import './futbol.js'
   
-    import '@/icons/frown.js'
+    import './gamepad.js'
   
-    import '@/icons/futbol.js'
+    import './gas-pump.js'
   
-    import '@/icons/gamepad.js'
+    import './gavel.js'
   
-    import '@/icons/gas-pump.js'
+    import './gem.js'
   
-    import '@/icons/gavel.js'
+    import './genderless.js'
   
-    import '@/icons/gem.js'
+    import './gift.js'
   
-    import '@/icons/genderless.js'
+    import './glass-martini-alt.js'
   
-    import '@/icons/gift.js'
+    import './glass-martini.js'
   
-    import '@/icons/glass-martini-alt.js'
+    import './glasses.js'
   
-    import '@/icons/glass-martini.js'
+    import './globe-africa.js'
   
-    import '@/icons/glasses.js'
+    import './globe-asia.js'
   
-    import '@/icons/globe-africa.js'
+    import './globe.js'
   
-    import '@/icons/globe-americas.js'
+    import './globe-americas.js'
   
-    import '@/icons/globe-asia.js'
+    import './golf-ball.js'
   
-    import '@/icons/globe.js'
+    import './graduation-cap.js'
   
-    import '@/icons/golf-ball.js'
+    import './greater-than-equal.js'
   
-    import '@/icons/graduation-cap.js'
+    import './greater-than.js'
   
-    import '@/icons/greater-than-equal.js'
+    import './grimace.js'
   
-    import '@/icons/greater-than.js'
+    import './grin-alt.js'
   
-    import '@/icons/grimace.js'
+    import './grin-beam-sweat.js'
   
-    import '@/icons/grin-alt.js'
+    import './grin-beam.js'
   
-    import '@/icons/grin-beam-sweat.js'
+    import './grin-hearts.js'
   
-    import '@/icons/grin-beam.js'
+    import './grin-squint-tears.js'
   
-    import '@/icons/grin-hearts.js'
+    import './grin-squint.js'
   
-    import '@/icons/grin-squint-tears.js'
+    import './grin-stars.js'
   
-    import '@/icons/grin-squint.js'
+    import './grin-tears.js'
   
-    import '@/icons/grin-stars.js'
+    import './grin-tongue-squint.js'
   
-    import '@/icons/grin-tears.js'
+    import './grin-tongue-wink.js'
   
-    import '@/icons/grin-tongue-wink.js'
+    import './grin-tongue.js'
   
-    import '@/icons/grin-tongue-squint.js'
+    import './grin-wink.js'
   
-    import '@/icons/grin-tongue.js'
+    import './grin.js'
   
-    import '@/icons/grin-wink.js'
+    import './grip-horizontal.js'
   
-    import '@/icons/grin.js'
+    import './grip-vertical.js'
   
-    import '@/icons/grip-horizontal.js'
+    import './h-square.js'
   
-    import '@/icons/grip-vertical.js'
+    import './hand-holding-heart.js'
   
-    import '@/icons/h-square.js'
+    import './hand-holding-usd.js'
   
-    import '@/icons/hand-holding-heart.js'
+    import './hand-holding.js'
   
-    import '@/icons/hand-holding-usd.js'
+    import './hand-lizard.js'
   
-    import '@/icons/hand-holding.js'
+    import './hand-paper.js'
   
-    import '@/icons/hand-lizard.js'
+    import './brands/itunes-note.js'
   
-    import '@/icons/hand-paper.js'
+    import './hand-peace.js'
   
-    import '@/icons/hand-peace.js'
+    import './hand-point-down.js'
   
-    import '@/icons/hand-point-down.js'
+    import './hand-point-left.js'
   
-    import '@/icons/hand-point-left.js'
+    import './hand-point-right.js'
   
-    import '@/icons/hand-point-right.js'
+    import './hand-point-up.js'
   
-    import '@/icons/hand-point-up.js'
+    import './hand-rock.js'
   
-    import '@/icons/hand-pointer.js'
+    import './hand-scissors.js'
   
-    import '@/icons/hand-rock.js'
+    import './hand-spock.js'
   
-    import '@/icons/hand-scissors.js'
+    import './hands-helping.js'
   
-    import '@/icons/hand-spock.js'
+    import './hands.js'
   
-    import '@/icons/hands-helping.js'
+    import './handshake.js'
   
-    import '@/icons/hands.js'
+    import './hashtag.js'
   
-    import '@/icons/handshake.js'
+    import './hdd.js'
   
-    import '@/icons/hashtag.js'
+    import './heading.js'
   
-    import '@/icons/hdd.js'
+    import './headphones.js'
   
-    import '@/icons/heading.js'
+    import './headphones-alt.js'
   
-    import '@/icons/headphones-alt.js'
+    import './headset.js'
   
-    import '@/icons/headphones.js'
+    import './heart.js'
   
-    import '@/icons/headset.js'
+    import './heartbeat.js'
   
-    import '@/icons/heart.js'
+    import './helicopter.js'
   
-    import '@/icons/heartbeat.js'
+    import './highlighter.js'
   
-    import '@/icons/helicopter.js'
+    import './history.js'
   
-    import '@/icons/highlighter.js'
+    import './hockey-puck.js'
   
-    import '@/icons/history.js'
+    import './home.js'
   
-    import '@/icons/hockey-puck.js'
+    import './hospital-alt.js'
   
-    import '@/icons/home.js'
+    import './hospital-symbol.js'
   
-    import '@/icons/hospital-alt.js'
+    import './hospital.js'
   
-    import '@/icons/hospital-symbol.js'
+    import './hot-tub.js'
   
-    import '@/icons/hospital.js'
+    import './hotel.js'
   
-    import '@/icons/hot-tub.js'
+    import './hourglass-end.js'
   
-    import '@/icons/hotel.js'
+    import './hourglass-half.js'
   
-    import '@/icons/hourglass-end.js'
+    import './hourglass.js'
   
-    import '@/icons/hourglass-half.js'
+    import './hourglass-start.js'
   
-    import '@/icons/hourglass-start.js'
+    import './i-cursor.js'
   
-    import '@/icons/hourglass.js'
+    import './id-badge.js'
   
-    import '@/icons/i-cursor.js'
+    import './id-card-alt.js'
   
-    import '@/icons/id-badge.js'
+    import './id-card.js'
   
-    import '@/icons/id-card-alt.js'
+    import './image.js'
   
-    import '@/icons/id-card.js'
+    import './images.js'
   
-    import '@/icons/image.js'
+    import './inbox.js'
   
-    import '@/icons/images.js'
+    import './indent.js'
   
-    import '@/icons/inbox.js'
+    import './industry.js'
   
-    import '@/icons/indent.js'
+    import './infinity.js'
   
-    import '@/icons/industry.js'
+    import './info-circle.js'
   
-    import '@/icons/infinity.js'
+    import './italic.js'
   
-    import '@/icons/info-circle.js'
+    import './info.js'
   
-    import '@/icons/info.js'
+    import './joint.js'
   
-    import '@/icons/italic.js'
+    import './key.js'
   
-    import '@/icons/key.js'
+    import './keyboard.js'
   
-    import '@/icons/joint.js'
+    import './kiss-beam.js'
   
-    import '@/icons/keyboard.js'
+    import './kiss-wink-heart.js'
   
-    import '@/icons/kiss-beam.js'
+    import './kiss.js'
   
-    import '@/icons/kiss-wink-heart.js'
+    import './language.js'
   
-    import '@/icons/kiss.js'
+    import './kiwi-bird.js'
   
-    import '@/icons/kiwi-bird.js'
+    import './laptop-code.js'
   
-    import '@/icons/language.js'
+    import './laptop.js'
   
-    import '@/icons/laptop-code.js'
+    import './laugh-beam.js'
   
-    import '@/icons/laptop.js'
+    import './laugh-squint.js'
   
-    import '@/icons/laugh-beam.js'
+    import './laugh-wink.js'
   
-    import '@/icons/laugh-squint.js'
+    import './laugh.js'
   
-    import '@/icons/laugh-wink.js'
+    import './layer-group.js'
   
-    import '@/icons/laugh.js'
+    import './leaf.js'
   
-    import '@/icons/layer-group.js'
+    import './less-than-equal.js'
   
-    import '@/icons/leaf.js'
+    import './lemon.js'
   
-    import '@/icons/lemon.js'
+    import './less-than.js'
   
-    import '@/icons/less-than-equal.js'
+    import './level-down-alt.js'
   
-    import '@/icons/level-down-alt.js'
+    import './level-up-alt.js'
   
-    import '@/icons/less-than.js'
+    import './life-ring.js'
   
-    import '@/icons/level-up-alt.js'
+    import './lightbulb.js'
   
-    import '@/icons/life-ring.js'
+    import './link.js'
   
-    import '@/icons/lightbulb.js'
+    import './lira-sign.js'
   
-    import '@/icons/link.js'
+    import './list-alt.js'
   
-    import '@/icons/lira-sign.js'
+    import './list-ol.js'
   
-    import '@/icons/list-alt.js'
+    import './list-ul.js'
   
-    import '@/icons/list-ol.js'
+    import './list.js'
   
-    import '@/icons/list-ul.js'
+    import './location-arrow.js'
   
-    import '@/icons/list.js'
+    import './lock-open.js'
   
-    import '@/icons/location-arrow.js'
+    import './lock.js'
   
-    import '@/icons/lock-open.js'
+    import './long-arrow-alt-left.js'
   
-    import '@/icons/lock.js'
+    import './long-arrow-alt-right.js'
   
-    import '@/icons/long-arrow-alt-down.js'
+    import './long-arrow-alt-down.js'
   
-    import '@/icons/long-arrow-alt-left.js'
+    import './long-arrow-alt-up.js'
   
-    import '@/icons/long-arrow-alt-right.js'
+    import './low-vision.js'
   
-    import '@/icons/long-arrow-alt-up.js'
+    import './luggage-cart.js'
   
-    import '@/icons/low-vision.js'
+    import './magic.js'
   
-    import '@/icons/luggage-cart.js'
+    import './magnet.js'
   
-    import '@/icons/magic.js'
+    import './hand-pointer.js'
   
-    import '@/icons/magnet.js'
+    import './male.js'
   
-    import '@/icons/male.js'
+    import './map-marked-alt.js'
   
-    import '@/icons/map-marked-alt.js'
+    import './map-marker-alt.js'
   
-    import '@/icons/map-marked.js'
+    import './map-marked.js'
   
-    import '@/icons/map-marker-alt.js'
+    import './map-marker.js'
   
-    import '@/icons/map-marker.js'
+    import './map-pin.js'
   
-    import '@/icons/map-pin.js'
+    import './map-signs.js'
   
-    import '@/icons/map-signs.js'
+    import './map.js'
   
-    import '@/icons/map.js'
+    import './marker.js'
   
-    import '@/icons/mars-double.js'
+    import './mars-double.js'
   
-    import '@/icons/marker.js'
+    import './mars-stroke-h.js'
   
-    import '@/icons/mars-stroke-h.js'
+    import './mars-stroke-v.js'
   
-    import '@/icons/mars-stroke-v.js'
+    import './mars-stroke.js'
   
-    import '@/icons/mars-stroke.js'
+    import './mars.js'
   
-    import '@/icons/mars.js'
+    import './medal.js'
   
-    import '@/icons/medal.js'
+    import './medkit.js'
   
-    import '@/icons/medkit.js'
+    import './meh-blank.js'
   
-    import '@/icons/meh-blank.js'
+    import './meh-rolling-eyes.js'
   
-    import '@/icons/meh-rolling-eyes.js'
+    import './meh.js'
   
-    import '@/icons/meh.js'
+    import './mercury.js'
   
-    import '@/icons/memory.js'
+    import './memory.js'
   
-    import '@/icons/microphone-alt-slash.js'
+    import './microchip.js'
   
-    import '@/icons/microphone-alt.js'
+    import './microphone-alt-slash.js'
   
-    import '@/icons/microphone-slash.js'
+    import './microphone-alt.js'
   
-    import '@/icons/mercury.js'
+    import './microphone-slash.js'
   
-    import '@/icons/microphone.js'
+    import './microphone.js'
   
-    import '@/icons/microchip.js'
+    import './microscope.js'
   
-    import '@/icons/microscope.js'
+    import './minus-circle.js'
   
-    import '@/icons/minus-circle.js'
+    import './minus-square.js'
   
-    import '@/icons/minus.js'
+    import './minus.js'
   
-    import '@/icons/minus-square.js'
+    import './mobile-alt.js'
   
-    import '@/icons/mobile-alt.js'
+    import './mobile.js'
   
-    import '@/icons/mobile.js'
+    import './money-bill-alt.js'
   
-    import '@/icons/money-bill-alt.js'
+    import './money-bill-wave-alt.js'
   
-    import '@/icons/money-bill-wave-alt.js'
+    import './money-bill-wave.js'
   
-    import '@/icons/money-bill-wave.js'
+    import './money-bill.js'
   
-    import '@/icons/money-bill.js'
+    import './money-check-alt.js'
   
-    import '@/icons/money-check-alt.js'
+    import './money-check.js'
   
-    import '@/icons/money-check.js'
+    import './monument.js'
   
-    import '@/icons/monument.js'
+    import './moon.js'
   
-    import '@/icons/moon.js'
+    import './mortar-pestle.js'
   
-    import '@/icons/mortar-pestle.js'
+    import './motorcycle.js'
   
-    import '@/icons/motorcycle.js'
+    import './mouse-pointer.js'
   
-    import '@/icons/mouse-pointer.js'
+    import './music.js'
   
-    import '@/icons/music.js'
+    import './neuter.js'
   
-    import '@/icons/neuter.js'
+    import './newspaper.js'
   
-    import '@/icons/newspaper.js'
+    import './not-equal.js'
   
-    import '@/icons/not-equal.js'
+    import './notes-medical.js'
   
-    import '@/icons/object-group.js'
+    import './object-group.js'
   
-    import '@/icons/notes-medical.js'
+    import './object-ungroup.js'
   
-    import '@/icons/object-ungroup.js'
+    import './oil-can.js'
   
-    import '@/icons/oil-can.js'
+    import './outdent.js'
   
-    import '@/icons/outdent.js'
+    import './paint-brush.js'
   
-    import '@/icons/paint-brush.js'
+    import './paint-roller.js'
   
-    import '@/icons/paint-roller.js'
+    import './palette.js'
   
-    import '@/icons/palette.js'
+    import './pallet.js'
   
-    import '@/icons/pallet.js'
+    import './paperclip.js'
   
-    import '@/icons/paper-plane.js'
+    import './paper-plane.js'
   
-    import '@/icons/paperclip.js'
+    import './parachute-box.js'
   
-    import '@/icons/parachute-box.js'
+    import './paragraph.js'
   
-    import '@/icons/paragraph.js'
+    import './parking.js'
   
-    import '@/icons/parking.js'
+    import './paste.js'
   
-    import '@/icons/passport.js'
+    import './passport.js'
   
-    import '@/icons/paste.js'
+    import './pause-circle.js'
   
-    import '@/icons/pause-circle.js'
+    import './pen-alt.js'
   
-    import '@/icons/pause.js'
+    import './pause.js'
   
-    import '@/icons/paw.js'
+    import './paw.js'
   
-    import '@/icons/pen-alt.js'
+    import './pen-fancy.js'
   
-    import '@/icons/pen-fancy.js'
+    import './pen-nib.js'
   
-    import '@/icons/pen-nib.js'
+    import './pen-square.js'
   
-    import '@/icons/pen-square.js'
+    import './pen.js'
   
-    import '@/icons/pen.js'
+    import './pencil-alt.js'
   
-    import '@/icons/pencil-alt.js'
+    import './pencil-ruler.js'
   
-    import '@/icons/pencil-ruler.js'
+    import './people-carry.js'
   
-    import '@/icons/people-carry.js'
+    import './percent.js'
   
-    import '@/icons/percent.js'
+    import './percentage.js'
   
-    import '@/icons/percentage.js'
+    import './phone-slash.js'
   
-    import '@/icons/phone-slash.js'
+    import './phone-square.js'
   
-    import '@/icons/phone-square.js'
+    import './phone-volume.js'
   
-    import '@/icons/phone.js'
+    import './phone.js'
   
-    import '@/icons/phone-volume.js'
+    import './piggy-bank.js'
   
-    import '@/icons/piggy-bank.js'
+    import './pills.js'
   
-    import '@/icons/pills.js'
+    import './plane-arrival.js'
   
-    import '@/icons/plane-arrival.js'
+    import './plane-departure.js'
   
-    import '@/icons/plane-departure.js'
+    import './plane.js'
   
-    import '@/icons/plane.js'
+    import './play.js'
   
-    import '@/icons/play-circle.js'
+    import './play-circle.js'
   
-    import '@/icons/play.js'
+    import './plug.js'
   
-    import '@/icons/plug.js'
+    import './plus-circle.js'
   
-    import '@/icons/plus-circle.js'
+    import './plus.js'
   
-    import '@/icons/plus-square.js'
+    import './plus-square.js'
   
-    import '@/icons/plus.js'
+    import './podcast.js'
   
-    import '@/icons/podcast.js'
+    import './poo.js'
   
-    import '@/icons/poo.js'
+    import './poop.js'
   
-    import '@/icons/poop.js'
+    import './portrait.js'
   
-    import '@/icons/portrait.js'
+    import './pound-sign.js'
   
-    import '@/icons/pound-sign.js'
+    import './power-off.js'
   
-    import '@/icons/power-off.js'
+    import './prescription-bottle-alt.js'
   
-    import '@/icons/prescription-bottle-alt.js'
+    import './prescription-bottle.js'
   
-    import '@/icons/prescription-bottle.js'
+    import './prescription.js'
   
-    import '@/icons/prescription.js'
+    import './print.js'
   
-    import '@/icons/print.js'
+    import './procedures.js'
   
-    import '@/icons/procedures.js'
+    import './project-diagram.js'
   
-    import '@/icons/project-diagram.js'
+    import './puzzle-piece.js'
   
-    import '@/icons/puzzle-piece.js'
+    import './qrcode.js'
   
-    import '@/icons/qrcode.js'
+    import './question-circle.js'
   
-    import '@/icons/question-circle.js'
+    import './question.js'
   
-    import '@/icons/question.js'
+    import './quidditch.js'
   
-    import '@/icons/quidditch.js'
+    import './quote-left.js'
   
-    import '@/icons/quote-left.js'
+    import './quote-right.js'
   
-    import '@/icons/quote-right.js'
+    import './random.js'
   
-    import '@/icons/random.js'
+    import './receipt.js'
   
-    import '@/icons/receipt.js'
+    import './recycle.js'
   
-    import '@/icons/recycle.js'
+    import './redo-alt.js'
   
-    import '@/icons/redo-alt.js'
+    import './redo.js'
   
-    import '@/icons/redo.js'
+    import './registered.js'
   
-    import '@/icons/registered.js'
+    import './regular/address-book.js'
   
-    import '@/icons/regular/address-book.js'
+    import './regular/angry.js'
   
-    import '@/icons/regular/address-card.js'
+    import './regular/arrow-alt-circle-down.js'
   
-    import '@/icons/regular/angry.js'
+    import './regular/address-card.js'
   
-    import '@/icons/regular/arrow-alt-circle-down.js'
+    import './regular/arrow-alt-circle-left.js'
   
-    import '@/icons/regular/arrow-alt-circle-left.js'
+    import './regular/arrow-alt-circle-right.js'
   
-    import '@/icons/regular/arrow-alt-circle-right.js'
+    import './regular/arrow-alt-circle-up.js'
   
-    import '@/icons/regular/arrow-alt-circle-up.js'
+    import './regular/bell-slash.js'
   
-    import '@/icons/regular/bell-slash.js'
+    import './regular/bell.js'
   
-    import '@/icons/regular/bell.js'
+    import './regular/bookmark.js'
   
-    import '@/icons/regular/bookmark.js'
+    import './regular/building.js'
   
-    import '@/icons/regular/building.js'
+    import './regular/calendar-alt.js'
   
-    import '@/icons/regular/calendar-alt.js'
+    import './regular/calendar-check.js'
   
-    import '@/icons/regular/calendar-check.js'
+    import './regular/calendar-minus.js'
   
-    import '@/icons/regular/calendar-minus.js'
+    import './regular/calendar-plus.js'
   
-    import '@/icons/regular/calendar-plus.js'
+    import './regular/calendar-times.js'
   
-    import '@/icons/regular/calendar-times.js'
+    import './regular/calendar.js'
   
-    import '@/icons/regular/calendar.js'
+    import './regular/caret-square-down.js'
   
-    import '@/icons/regular/caret-square-down.js'
+    import './regular/caret-square-left.js'
   
-    import '@/icons/regular/caret-square-left.js'
+    import './regular/caret-square-right.js'
   
-    import '@/icons/regular/caret-square-right.js'
+    import './regular/caret-square-up.js'
   
-    import '@/icons/regular/caret-square-up.js'
+    import './regular/chart-bar.js'
   
-    import '@/icons/regular/chart-bar.js'
+    import './regular/check-square.js'
   
-    import '@/icons/regular/check-circle.js'
+    import './regular/check-circle.js'
   
-    import '@/icons/regular/circle.js'
+    import './regular/circle.js'
   
-    import '@/icons/regular/check-square.js'
+    import './regular/clipboard.js'
   
-    import '@/icons/regular/clipboard.js'
+    import './regular/clock.js'
   
-    import '@/icons/regular/clock.js'
+    import './regular/clone.js'
   
-    import '@/icons/regular/clone.js'
+    import './regular/closed-captioning.js'
   
-    import '@/icons/regular/closed-captioning.js'
+    import './regular/comment-alt.js'
   
-    import '@/icons/regular/comment-alt.js'
+    import './regular/comment-dots.js'
   
-    import '@/icons/regular/comment-dots.js'
+    import './regular/comment.js'
   
-    import '@/icons/regular/comments.js'
+    import './regular/comments.js'
   
-    import '@/icons/regular/comment.js'
+    import './regular/compass.js'
   
-    import '@/icons/regular/compass.js'
+    import './regular/copy.js'
   
-    import '@/icons/regular/copy.js'
+    import './regular/copyright.js'
   
-    import '@/icons/regular/copyright.js'
+    import './regular/credit-card.js'
   
-    import '@/icons/regular/credit-card.js'
+    import './regular/dizzy.js'
   
-    import '@/icons/regular/dizzy.js'
+    import './regular/dot-circle.js'
   
-    import '@/icons/regular/dot-circle.js'
+    import './regular/edit.js'
   
-    import '@/icons/regular/edit.js'
+    import './regular/envelope-open.js'
   
-    import '@/icons/regular/envelope-open.js'
+    import './regular/envelope.js'
   
-    import '@/icons/regular/envelope.js'
+    import './regular/eye-slash.js'
   
-    import '@/icons/regular/eye-slash.js'
+    import './regular/file-alt.js'
   
-    import '@/icons/regular/eye.js'
+    import './regular/eye.js'
   
-    import '@/icons/regular/file-alt.js'
+    import './regular/file-audio.js'
   
-    import '@/icons/regular/file-archive.js'
+    import './regular/file-archive.js'
   
-    import '@/icons/regular/file-audio.js'
+    import './regular/file-code.js'
   
-    import '@/icons/regular/file-code.js'
+    import './regular/file-excel.js'
   
-    import '@/icons/regular/file-excel.js'
+    import './regular/file-image.js'
   
-    import '@/icons/regular/file-image.js'
+    import './regular/file-pdf.js'
   
-    import '@/icons/regular/file-pdf.js'
+    import './regular/file-powerpoint.js'
   
-    import '@/icons/regular/file-powerpoint.js'
+    import './regular/file-video.js'
   
-    import '@/icons/regular/file-video.js'
+    import './regular/file-word.js'
   
-    import '@/icons/regular/file-word.js'
+    import './regular/file.js'
   
-    import '@/icons/regular/file.js'
+    import './regular/flag.js'
   
-    import '@/icons/regular/flag.js'
+    import './regular/flushed.js'
   
-    import '@/icons/regular/flushed.js'
+    import './regular/folder-open.js'
   
-    import '@/icons/regular/folder-open.js'
+    import './regular/folder.js'
   
-    import '@/icons/regular/folder.js'
+    import './regular/font-awesome-logo-full.js'
   
-    import '@/icons/regular/font-awesome-logo-full.js'
+    import './regular/frown-open.js'
   
-    import '@/icons/regular/frown-open.js'
+    import './regular/frown.js'
   
-    import '@/icons/regular/frown.js'
+    import './regular/futbol.js'
   
-    import '@/icons/regular/futbol.js'
+    import './regular/gem.js'
   
-    import '@/icons/regular/gem.js'
+    import './regular/grimace.js'
   
-    import '@/icons/regular/grimace.js'
+    import './regular/grin-alt.js'
   
-    import '@/icons/regular/grin-beam-sweat.js'
+    import './regular/grin-beam-sweat.js'
   
-    import '@/icons/regular/grin-alt.js'
+    import './regular/grin-beam.js'
   
-    import '@/icons/regular/grin-beam.js'
+    import './regular/grin-hearts.js'
   
-    import '@/icons/regular/grin-hearts.js'
+    import './regular/grin-squint-tears.js'
   
-    import '@/icons/regular/grin-squint-tears.js'
+    import './regular/grin-squint.js'
   
-    import '@/icons/regular/grin-squint.js'
+    import './regular/grin-stars.js'
   
-    import '@/icons/regular/grin-stars.js'
+    import './regular/grin-tears.js'
   
-    import '@/icons/regular/grin-tears.js'
+    import './regular/grin-tongue-squint.js'
   
-    import '@/icons/regular/grin-tongue-squint.js'
+    import './regular/grin-tongue-wink.js'
   
-    import '@/icons/regular/grin-tongue-wink.js'
+    import './regular/grin-tongue.js'
   
-    import '@/icons/regular/grin-tongue.js'
+    import './regular/grin-wink.js'
   
-    import '@/icons/regular/grin-wink.js'
+    import './regular/grin.js'
   
-    import '@/icons/regular/grin.js'
+    import './regular/hand-lizard.js'
   
-    import '@/icons/regular/hand-lizard.js'
+    import './regular/hand-paper.js'
   
-    import '@/icons/regular/hand-paper.js'
+    import './regular/hand-peace.js'
   
-    import '@/icons/regular/hand-peace.js'
+    import './regular/hand-point-down.js'
   
-    import '@/icons/regular/hand-point-down.js'
+    import './regular/hand-point-left.js'
   
-    import '@/icons/regular/hand-point-left.js'
+    import './regular/hand-point-right.js'
   
-    import '@/icons/regular/hand-point-right.js'
+    import './regular/hand-point-up.js'
   
-    import '@/icons/regular/hand-point-up.js'
+    import './regular/hand-pointer.js'
   
-    import '@/icons/regular/hand-pointer.js'
+    import './regular/hand-rock.js'
   
-    import '@/icons/regular/hand-rock.js'
+    import './regular/hand-scissors.js'
   
-    import '@/icons/regular/hand-scissors.js'
+    import './regular/hand-spock.js'
   
-    import '@/icons/regular/hand-spock.js'
+    import './regular/handshake.js'
   
-    import '@/icons/regular/handshake.js'
+    import './regular/hdd.js'
   
-    import '@/icons/regular/hdd.js'
+    import './regular/heart.js'
   
-    import '@/icons/regular/heart.js'
+    import './regular/hospital.js'
   
-    import '@/icons/regular/hospital.js'
+    import './regular/hourglass.js'
   
-    import '@/icons/regular/id-badge.js'
+    import './regular/id-badge.js'
   
-    import '@/icons/regular/id-card.js'
+    import './regular/id-card.js'
   
-    import '@/icons/regular/image.js'
+    import './regular/image.js'
   
-    import '@/icons/regular/images.js'
+    import './regular/images.js'
   
-    import '@/icons/regular/keyboard.js'
+    import './regular/keyboard.js'
   
-    import '@/icons/regular/kiss-beam.js'
+    import './regular/kiss-beam.js'
   
-    import '@/icons/regular/kiss.js'
+    import './regular/kiss-wink-heart.js'
   
-    import '@/icons/regular/laugh-beam.js'
+    import './regular/kiss.js'
   
-    import '@/icons/regular/kiss-wink-heart.js'
+    import './regular/laugh-beam.js'
   
-    import '@/icons/regular/laugh-squint.js'
+    import './regular/laugh-squint.js'
   
-    import '@/icons/regular/laugh-wink.js'
+    import './regular/laugh-wink.js'
   
-    import '@/icons/regular/laugh.js'
+    import './regular/laugh.js'
   
-    import '@/icons/regular/lemon.js'
+    import './regular/lemon.js'
   
-    import '@/icons/regular/life-ring.js'
+    import './regular/life-ring.js'
   
-    import '@/icons/regular/lightbulb.js'
+    import './regular/lightbulb.js'
   
-    import '@/icons/regular/list-alt.js'
+    import './regular/list-alt.js'
   
-    import '@/icons/regular/map.js'
+    import './regular/map.js'
   
-    import '@/icons/regular/meh-blank.js'
+    import './regular/meh-blank.js'
   
-    import '@/icons/regular/meh-rolling-eyes.js'
+    import './regular/meh-rolling-eyes.js'
   
-    import '@/icons/regular/meh.js'
+    import './regular/meh.js'
   
-    import '@/icons/regular/hourglass.js'
+    import './regular/money-bill-alt.js'
   
-    import '@/icons/regular/minus-square.js'
+    import './regular/minus-square.js'
   
-    import '@/icons/regular/money-bill-alt.js'
+    import './regular/moon.js'
   
-    import '@/icons/regular/moon.js'
+    import './regular/object-group.js'
   
-    import '@/icons/regular/newspaper.js'
+    import './regular/newspaper.js'
   
-    import '@/icons/regular/object-group.js'
+    import './regular/paper-plane.js'
   
-    import '@/icons/regular/object-ungroup.js'
+    import './regular/pause-circle.js'
   
-    import '@/icons/regular/paper-plane.js'
+    import './regular/object-ungroup.js'
   
-    import '@/icons/regular/pause-circle.js'
+    import './regular/play-circle.js'
   
-    import '@/icons/regular/play-circle.js'
+    import './regular/plus-square.js'
   
-    import '@/icons/regular/plus-square.js'
+    import './regular/question-circle.js'
   
-    import '@/icons/regular/question-circle.js'
+    import './regular/registered.js'
   
-    import '@/icons/regular/registered.js'
+    import './regular/sad-cry.js'
   
-    import '@/icons/regular/sad-cry.js'
+    import './regular/sad-tear.js'
   
-    import '@/icons/regular/sad-tear.js'
+    import './regular/save.js'
   
-    import '@/icons/regular/save.js'
+    import './regular/share-square.js'
   
-    import '@/icons/regular/share-square.js'
+    import './regular/smile-beam.js'
   
-    import '@/icons/regular/smile-beam.js'
+    import './regular/smile-wink.js'
   
-    import '@/icons/regular/smile-wink.js'
+    import './regular/smile.js'
   
-    import '@/icons/regular/smile.js'
+    import './regular/snowflake.js'
   
-    import '@/icons/regular/snowflake.js'
+    import './regular/square.js'
   
-    import '@/icons/regular/square.js'
+    import './regular/star-half.js'
   
-    import '@/icons/regular/star-half.js'
+    import './regular/star.js'
   
-    import '@/icons/regular/star.js'
+    import './regular/sticky-note.js'
   
-    import '@/icons/regular/sticky-note.js'
+    import './regular/stop-circle.js'
   
-    import '@/icons/regular/stop-circle.js'
+    import './regular/sun.js'
   
-    import '@/icons/regular/sun.js'
+    import './regular/surprise.js'
   
-    import '@/icons/regular/surprise.js'
+    import './regular/thumbs-down.js'
   
-    import '@/icons/regular/thumbs-down.js'
+    import './regular/thumbs-up.js'
   
-    import '@/icons/regular/thumbs-up.js'
+    import './regular/times-circle.js'
   
-    import '@/icons/regular/times-circle.js'
+    import './regular/tired.js'
   
-    import '@/icons/regular/tired.js'
+    import './regular/user-circle.js'
   
-    import '@/icons/regular/trash-alt.js'
+    import './regular/trash-alt.js'
   
-    import '@/icons/regular/user-circle.js'
+    import './regular/user.js'
   
-    import '@/icons/regular/user.js'
+    import './regular/window-maximize.js'
   
-    import '@/icons/regular/window-close.js'
+    import './regular/window-close.js'
   
-    import '@/icons/regular/window-maximize.js'
+    import './regular/window-minimize.js'
   
-    import '@/icons/regular/window-minimize.js'
+    import './regular/window-restore.js'
   
-    import '@/icons/regular/window-restore.js'
+    import './reply-all.js'
   
-    import '@/icons/reply-all.js'
+    import './reply.js'
   
-    import '@/icons/reply.js'
+    import './retweet.js'
   
-    import '@/icons/retweet.js'
+    import './ribbon.js'
   
-    import '@/icons/ribbon.js'
+    import './road.js'
   
-    import '@/icons/road.js'
+    import './robot.js'
   
-    import '@/icons/robot.js'
+    import './rocket.js'
   
-    import '@/icons/rocket.js'
+    import './route.js'
   
-    import '@/icons/route.js'
+    import './rss-square.js'
   
-    import '@/icons/rss-square.js'
+    import './rss.js'
   
-    import '@/icons/rss.js'
+    import './ruble-sign.js'
   
-    import '@/icons/ruble-sign.js'
+    import './ruler-combined.js'
   
-    import '@/icons/ruler-combined.js'
+    import './ruler-horizontal.js'
   
-    import '@/icons/ruler-horizontal.js'
+    import './ruler-vertical.js'
   
-    import '@/icons/ruler-vertical.js'
+    import './ruler.js'
   
-    import '@/icons/ruler.js'
+    import './rupee-sign.js'
   
-    import '@/icons/rupee-sign.js'
+    import './sad-cry.js'
   
-    import '@/icons/sad-cry.js'
+    import './sad-tear.js'
   
-    import '@/icons/sad-tear.js'
+    import './save.js'
   
-    import '@/icons/save.js'
+    import './school.js'
   
-    import '@/icons/school.js'
+    import './screwdriver.js'
   
-    import '@/icons/screwdriver.js'
+    import './search-minus.js'
   
-    import '@/icons/search-minus.js'
+    import './search-plus.js'
   
-    import '@/icons/search-plus.js'
+    import './search.js'
   
-    import '@/icons/search.js'
+    import './seedling.js'
   
-    import '@/icons/seedling.js'
+    import './server.js'
   
-    import '@/icons/server.js'
+    import './shapes.js'
   
-    import '@/icons/shapes.js'
+    import './share-alt-square.js'
   
-    import '@/icons/share-alt-square.js'
+    import './share-alt.js'
   
-    import '@/icons/share-alt.js'
+    import './share-square.js'
   
-    import '@/icons/share-square.js'
+    import './share.js'
   
-    import '@/icons/share.js'
+    import './shekel-sign.js'
   
-    import '@/icons/shekel-sign.js'
+    import './shield-alt.js'
   
-    import '@/icons/shield-alt.js'
+    import './ship.js'
   
-    import '@/icons/shipping-fast.js'
+    import './shipping-fast.js'
   
-    import '@/icons/ship.js'
+    import './shoe-prints.js'
   
-    import '@/icons/shopping-bag.js'
+    import './shopping-bag.js'
   
-    import '@/icons/shopping-basket.js'
+    import './shopping-basket.js'
   
-    import '@/icons/shopping-cart.js'
+    import './shopping-cart.js'
   
-    import '@/icons/shower.js'
+    import './shower.js'
   
-    import '@/icons/shuttle-van.js'
+    import './shuttle-van.js'
   
-    import '@/icons/sign-in-alt.js'
+    import './sign-in-alt.js'
   
-    import '@/icons/sign-language.js'
+    import './sign-language.js'
   
-    import '@/icons/sign-out-alt.js'
+    import './sign-out-alt.js'
   
-    import '@/icons/sign.js'
+    import './sign.js'
   
-    import '@/icons/signal.js'
+    import './signal.js'
   
-    import '@/icons/signature.js'
+    import './signature.js'
   
-    import '@/icons/sitemap.js'
+    import './sitemap.js'
   
-    import '@/icons/skull.js'
+    import './skull.js'
   
-    import '@/icons/sliders-h.js'
+    import './sliders-h.js'
   
-    import '@/icons/smile-beam.js'
+    import './smile-beam.js'
   
-    import '@/icons/smile-wink.js'
+    import './smile-wink.js'
   
-    import '@/icons/smile.js'
+    import './smile.js'
   
-    import '@/icons/smoking-ban.js'
+    import './smoking-ban.js'
   
-    import '@/icons/smoking.js'
+    import './smoking.js'
   
-    import '@/icons/snowflake.js'
+    import './snowflake.js'
   
-    import '@/icons/solar-panel.js'
+    import './solar-panel.js'
   
-    import '@/icons/sort-alpha-down.js'
+    import './sort-alpha-down.js'
   
-    import '@/icons/sort-alpha-up.js'
+    import './sort-alpha-up.js'
   
-    import '@/icons/sort-amount-down.js'
+    import './sort-amount-down.js'
   
-    import '@/icons/sort-amount-up.js'
+    import './sort-amount-up.js'
   
-    import '@/icons/sort-down.js'
+    import './sort-down.js'
   
-    import '@/icons/sort-numeric-down.js'
+    import './sort-numeric-down.js'
   
-    import '@/icons/sort-numeric-up.js'
+    import './sort-numeric-up.js'
   
-    import '@/icons/sort-up.js'
+    import './sort-up.js'
   
-    import '@/icons/spa.js'
+    import './sort.js'
   
-    import '@/icons/sort.js'
+    import './space-shuttle.js'
   
-    import '@/icons/space-shuttle.js'
+    import './spa.js'
   
-    import '@/icons/spinner.js'
+    import './spinner.js'
   
-    import '@/icons/splotch.js'
+    import './splotch.js'
   
-    import '@/icons/square-full.js'
+    import './spray-can.js'
   
-    import '@/icons/square.js'
+    import './square-full.js'
   
-    import '@/icons/stamp.js'
+    import './stamp.js'
   
-    import '@/icons/star-half-alt.js'
+    import './star-half-alt.js'
   
-    import '@/icons/star-half.js'
+    import './star-half.js'
   
-    import '@/icons/star-of-life.js'
+    import './star-of-life.js'
   
-    import '@/icons/step-backward.js'
+    import './star.js'
   
-    import '@/icons/shoe-prints.js'
+    import './step-backward.js'
   
-    import '@/icons/star.js'
+    import './step-forward.js'
   
-    import '@/icons/stethoscope.js'
+    import './stethoscope.js'
   
-    import '@/icons/step-forward.js'
+    import './sticky-note.js'
   
-    import '@/icons/spray-can.js'
+    import './stop.js'
   
-    import '@/icons/sticky-note.js'
+    import './square.js'
   
-    import '@/icons/stop-circle.js'
+    import './stop-circle.js'
   
-    import '@/icons/stop.js'
+    import './stopwatch.js'
   
-    import '@/icons/stopwatch.js'
+    import './store-alt.js'
   
-    import '@/icons/store-alt.js'
+    import './store.js'
   
-    import '@/icons/store.js'
+    import './stream.js'
   
-    import '@/icons/stream.js'
+    import './street-view.js'
   
-    import '@/icons/street-view.js'
+    import './strikethrough.js'
   
-    import '@/icons/strikethrough.js'
+    import './stroopwafel.js'
   
-    import '@/icons/stroopwafel.js'
+    import './subscript.js'
   
-    import '@/icons/subscript.js'
+    import './suitcase-rolling.js'
   
-    import '@/icons/subway.js'
+    import './suitcase.js'
   
-    import '@/icons/suitcase-rolling.js'
+    import './subway.js'
   
-    import '@/icons/suitcase.js'
+    import './sun.js'
   
-    import '@/icons/sun.js'
+    import './superscript.js'
   
-    import '@/icons/superscript.js'
+    import './surprise.js'
   
-    import '@/icons/surprise.js'
+    import './swatchbook.js'
   
-    import '@/icons/swatchbook.js'
+    import './swimmer.js'
   
-    import '@/icons/swimmer.js'
+    import './swimming-pool.js'
   
-    import '@/icons/sync-alt.js'
+    import './sync-alt.js'
   
-    import '@/icons/swimming-pool.js'
+    import './sync.js'
   
-    import '@/icons/sync.js'
+    import './syringe.js'
   
-    import '@/icons/syringe.js'
+    import './table-tennis.js'
   
-    import '@/icons/table-tennis.js'
+    import './tablet-alt.js'
   
-    import '@/icons/table.js'
+    import './table.js'
   
-    import '@/icons/tablet-alt.js'
+    import './tablet.js'
   
-    import '@/icons/tablet.js'
+    import './tablets.js'
   
-    import '@/icons/tablets.js'
+    import './tachometer-alt.js'
   
-    import '@/icons/tachometer-alt.js'
+    import './tag.js'
   
-    import '@/icons/tag.js'
+    import './tags.js'
   
-    import '@/icons/tags.js'
+    import './tape.js'
   
-    import '@/icons/tape.js'
+    import './tasks.js'
   
-    import '@/icons/tasks.js'
+    import './taxi.js'
   
-    import '@/icons/taxi.js'
+    import './teeth-open.js'
   
-    import '@/icons/teeth.js'
+    import './teeth.js'
   
-    import '@/icons/teeth-open.js'
+    import './terminal.js'
   
-    import '@/icons/terminal.js'
+    import './text-height.js'
   
-    import '@/icons/text-height.js'
+    import './text-width.js'
   
-    import '@/icons/text-width.js'
+    import './th-large.js'
   
-    import '@/icons/th-large.js'
+    import './th.js'
   
-    import '@/icons/th-list.js'
+    import './th-list.js'
   
-    import '@/icons/th.js'
+    import './thermometer-empty.js'
   
-    import '@/icons/theater-masks.js'
+    import './theater-masks.js'
   
-    import '@/icons/thermometer-empty.js'
+    import './thermometer-full.js'
   
-    import '@/icons/thermometer-full.js'
+    import './thermometer-quarter.js'
   
-    import '@/icons/thermometer-half.js'
+    import './thermometer-half.js'
   
-    import '@/icons/thermometer-quarter.js'
+    import './thermometer-three-quarters.js'
   
-    import '@/icons/thermometer-three-quarters.js'
+    import './thermometer.js'
   
-    import '@/icons/thermometer.js'
+    import './thumbs-down.js'
   
-    import '@/icons/thumbs-down.js'
+    import './thumbs-up.js'
   
-    import '@/icons/thumbs-up.js'
+    import './thumbtack.js'
   
-    import '@/icons/thumbtack.js'
+    import './ticket-alt.js'
   
-    import '@/icons/ticket-alt.js'
+    import './times-circle.js'
   
-    import '@/icons/times.js'
+    import './times.js'
   
-    import '@/icons/times-circle.js'
+    import './tint-slash.js'
   
-    import '@/icons/tint-slash.js'
+    import './tint.js'
   
-    import '@/icons/tint.js'
+    import './toggle-off.js'
   
-    import '@/icons/tired.js'
+    import './toolbox.js'
   
-    import '@/icons/toggle-off.js'
+    import './tooth.js'
   
-    import '@/icons/toggle-on.js'
+    import './tired.js'
   
-    import '@/icons/toolbox.js'
+    import './trademark.js'
   
-    import '@/icons/tooth.js'
+    import './traffic-light.js'
   
-    import '@/icons/trademark.js'
+    import './train.js'
   
-    import '@/icons/traffic-light.js'
+    import './transgender-alt.js'
   
-    import '@/icons/train.js'
+    import './transgender.js'
   
-    import '@/icons/transgender-alt.js'
+    import './trash-alt.js'
   
-    import '@/icons/transgender.js'
+    import './trash.js'
   
-    import '@/icons/trash-alt.js'
+    import './tree.js'
   
-    import '@/icons/trash.js'
+    import './toggle-on.js'
   
-    import '@/icons/tree.js'
+    import './trophy.js'
   
-    import '@/icons/trophy.js'
+    import './truck-loading.js'
   
-    import '@/icons/truck-loading.js'
+    import './truck-monster.js'
   
-    import '@/icons/truck-monster.js'
+    import './truck-moving.js'
   
-    import '@/icons/truck-moving.js'
+    import './truck-pickup.js'
   
-    import '@/icons/truck-pickup.js'
+    import './truck.js'
   
-    import '@/icons/truck.js'
+    import './tshirt.js'
   
-    import '@/icons/tshirt.js'
+    import './tty.js'
   
-    import '@/icons/tty.js'
+    import './tv.js'
   
-    import '@/icons/umbrella-beach.js'
+    import './umbrella-beach.js'
   
-    import '@/icons/umbrella.js'
+    import './underline.js'
   
-    import '@/icons/tv.js'
+    import './umbrella.js'
   
-    import '@/icons/underline.js'
+    import './undo-alt.js'
   
-    import '@/icons/undo-alt.js'
+    import './undo.js'
   
-    import '@/icons/undo.js'
+    import './universal-access.js'
   
-    import '@/icons/universal-access.js'
+    import './university.js'
   
-    import '@/icons/university.js'
+    import './unlock-alt.js'
   
-    import '@/icons/unlink.js'
+    import './unlink.js'
   
-    import '@/icons/unlock-alt.js'
+    import './upload.js'
   
-    import '@/icons/unlock.js'
+    import './unlock.js'
   
-    import '@/icons/upload.js'
+    import './user-alt-slash.js'
   
-    import '@/icons/user-alt-slash.js'
+    import './user-alt.js'
   
-    import '@/icons/user-alt.js'
+    import './user-check.js'
   
-    import '@/icons/user-astronaut.js'
+    import './user-astronaut.js'
   
-    import '@/icons/user-check.js'
+    import './user-circle.js'
   
-    import '@/icons/user-circle.js'
+    import './user-clock.js'
   
-    import '@/icons/user-clock.js'
+    import './user-cog.js'
   
-    import '@/icons/user-cog.js'
+    import './user-edit.js'
   
-    import '@/icons/user-edit.js'
+    import './user-friends.js'
   
-    import '@/icons/user-friends.js'
+    import './user-graduate.js'
   
-    import '@/icons/user-graduate.js'
+    import './user-md.js'
   
-    import '@/icons/user-lock.js'
+    import './user-lock.js'
   
-    import '@/icons/user-md.js'
+    import './user-minus.js'
   
-    import '@/icons/user-minus.js'
+    import './user-ninja.js'
   
-    import '@/icons/user-ninja.js'
+    import './user-secret.js'
   
-    import '@/icons/user-plus.js'
+    import './user-plus.js'
   
-    import '@/icons/user-secret.js'
+    import './user-shield.js'
   
-    import '@/icons/user-shield.js'
+    import './user-slash.js'
   
-    import '@/icons/user-slash.js'
+    import './user-tag.js'
   
-    import '@/icons/user-tag.js'
+    import './film.js'
   
-    import '@/icons/user-tie.js'
+    import './user-tie.js'
   
-    import '@/icons/user-times.js'
+    import './user-times.js'
   
-    import '@/icons/user.js'
+    import './users-cog.js'
   
-    import '@/icons/users-cog.js'
+    import './user.js'
   
-    import '@/icons/users.js'
+    import './users.js'
   
-    import '@/icons/utensil-spoon.js'
+    import './utensils.js'
   
-    import '@/icons/utensils.js'
+    import './utensil-spoon.js'
   
-    import '@/icons/vector-square.js'
+    import './vector-square.js'
   
-    import '@/icons/venus-double.js'
+    import './venus-double.js'
   
-    import '@/icons/venus-mars.js'
+    import './venus-mars.js'
   
-    import '@/icons/venus.js'
+    import './venus.js'
   
-    import '@/icons/vial.js'
+    import './vial.js'
   
-    import '@/icons/vials.js'
+    import './vials.js'
   
-    import '@/icons/video-slash.js'
+    import './video-slash.js'
   
-    import '@/icons/video.js'
+    import './video.js'
   
-    import '@/icons/volleyball-ball.js'
+    import './volleyball-ball.js'
   
-    import '@/icons/volume-down.js'
+    import './volume-down.js'
   
-    import '@/icons/volume-off.js'
+    import './volume-off.js'
   
-    import '@/icons/volume-up.js'
+    import './walking.js'
   
-    import '@/icons/walking.js'
+    import './wallet.js'
   
-    import '@/icons/wallet.js'
+    import './volume-up.js'
   
-    import '@/icons/warehouse.js'
+    import './warehouse.js'
   
-    import '@/icons/weight-hanging.js'
+    import './wheelchair.js'
   
-    import '@/icons/weight.js'
+    import './weight-hanging.js'
   
-    import '@/icons/wheelchair.js'
+    import './weight.js'
   
-    import '@/icons/wifi.js'
+    import './wifi.js'
   
-    import '@/icons/window-close.js'
+    import './window-close.js'
   
-    import '@/icons/window-maximize.js'
+    import './window-maximize.js'
   
-    import '@/icons/window-minimize.js'
+    import './window-minimize.js'
   
-    import '@/icons/window-restore.js'
+    import './window-restore.js'
   
-    import '@/icons/wine-glass-alt.js'
+    import './wine-glass-alt.js'
   
-    import '@/icons/wine-glass.js'
+    import './wine-glass.js'
   
-    import '@/icons/won-sign.js'
+    import './wrench.js'
   
-    import '@/icons/wrench.js'
+    import './won-sign.js'
   
-    import '@/icons/x-ray.js'
+    import './x-ray.js'
   
-    import '@/icons/yen-sign.js'
+    import './yen-sign.js'
   
