@@ -81,5 +81,8 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "dependencies": {
+    "rollup-plugin-alias": "^1.4.0"
+  }
 }
