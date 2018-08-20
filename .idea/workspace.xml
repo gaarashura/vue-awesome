@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8767e9d3-0580-4884-b9ed-72cbfbcbf6a4" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/vue-awesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vue-awesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/address-book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/address-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/adjust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/air-freshener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/align-center.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/align-justify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/align-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/align-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/allergies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ambulance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/american-sign-language-interpreting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-double-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-double-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-double-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-double-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angle-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/angry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/apple-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/archive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/archway.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-alt-circle-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-alt-circle-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-alt-circle-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-alt-circle-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-circle-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-circle-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-circle-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-circle-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrow-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrows-alt-h.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrows-alt-v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/arrows-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/assistive-listening-systems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/asterisk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/atlas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/atom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/audio-description.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/award.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/backspace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/backward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/balance-scale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ban.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/band-aid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/barcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/baseball-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/basketball-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/battery-empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/battery-full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/battery-half.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/battery-quarter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/battery-three-quarters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/beer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bell-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bezier-curve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bicycle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/binoculars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/birthday-cake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/blender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/blind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bolt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bomb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bong.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/book-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/book-reader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bookmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bowling-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/box-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/boxes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/braille.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/500px.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/accessible-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/accusoft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/adn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/adversal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/affiliatetheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/algolia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/amazon-pay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/amazon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/amilia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/angellist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/angrycreative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/app-store-ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/app-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/apper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/apple-pay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/apple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/asymmetrik.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/audible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/autoprefixer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/avianex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/aviato.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/aws.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bandcamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/behance-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/behance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bimobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bitbucket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bitcoin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/black-tie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/blackberry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/blogger-b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/blogger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bluetooth-b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/bluetooth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/btc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/buromobelexperte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/buysellads.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-amazon-pay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-amex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-apple-pay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-diners-club.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-discover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-jcb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-mastercard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-paypal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-stripe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cc-visa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/centercode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/chrome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cloudscale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cloudsmith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cloudversify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/codepen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/codiepie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/connectdevelop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/contao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cpanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-by.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-nc-eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-nc-jp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-nc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-nd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-pd-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-pd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-remix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-sampling-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-sampling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons-share.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/creative-commons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/css3-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/css3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/cuttlefish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/d-and-d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dashcube.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/delicious.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/deploydog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/deskpro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/deviantart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/digg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/digital-ocean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/discord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/discourse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dochub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/docker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/draft2digital.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dribbble-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dribbble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dropbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/drupal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/dyalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/earlybirds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ebay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/edge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/elementor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ember.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/empire.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/envira.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/erlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ethereum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/etsy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/expeditedssl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/facebook-f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/facebook-messenger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/facebook-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/facebook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/firefox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/first-order-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/first-order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/firstdraft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/flickr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/flipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/font-awesome-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/font-awesome-flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/font-awesome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fonticons-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fonticons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fort-awesome-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fort-awesome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/forumbee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/foursquare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/free-code-camp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/freebsd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/fulcrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/galactic-republic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/galactic-senate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/get-pocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gg-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/git-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/git.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/github-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/github-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gitkraken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gitlab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/glide-g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/glide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gofore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/goodreads-g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/goodreads.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-drive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-play.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-plus-g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-plus-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google-wallet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/google.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gratipay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/grav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gripfire.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/grunt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/gulp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hacker-news-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hacker-news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hackerrank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hips.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hire-a-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hooli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hornbill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hotjar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/houzz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/html5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/hubspot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/imdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/instagram.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/internet-explorer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ioxhost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/itunes-note.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/itunes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/jedi-order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/jenkins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/joget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/joomla.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/js-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/jsfiddle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/kaggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/keybase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/keycdn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/kickstarter-k.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/kickstarter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/korvue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/laravel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/lastfm-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/lastfm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/leanpub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/linkedin-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/linkedin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/linode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/linux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/lyft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/magento.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mailchimp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mandalorian.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mastodon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/maxcdn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/medapps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/medium-m.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/medium.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/medrt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/meetup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/megaport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/microsoft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mixcloud.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/mizuni.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/modx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/monero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/napster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/neos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/nimblr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/nintendo-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/node-js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ns8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/nutritionix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/odnoklassniki-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/odnoklassniki.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/old-republic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/opencart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/openid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/opera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/optin-monster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/osi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/page4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pagelines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/palfed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/patreon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/paypal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/periscope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/phabricator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/phoenix-framework.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/phoenix-squadron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pied-piper-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pied-piper-hat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pied-piper-pp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pied-piper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pinterest-p.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pinterest-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pinterest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/playstation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/product-hunt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/pushed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/qq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/quinscape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/quora.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/r-project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ravelry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/readme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/rebel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/red-river.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/reddit-alien.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/reddit-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/reddit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/rendact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/renren.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/replyd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/researchgate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/resolving.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/rev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/rocketchat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/rockrms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/safari.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/schlix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/scribd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/searchengin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sellcast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sellsy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/servicestack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/shirtsinbulk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/shopware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/simplybuilt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sistrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/skyatlas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/skype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/slack-hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/slack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/slideshare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/snapchat-ghost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/snapchat-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/snapchat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/soundcloud.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/speakap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/spotify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/squarespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stack-exchange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stack-overflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/staylinked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/steam-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/steam-symbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/steam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/sticker-mule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/strava.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stripe-s.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stripe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/studiovinari.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stumbleupon-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/stumbleupon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/superpowers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/supple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/teamspeak.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/telegram-plane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/telegram.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/tencent-weibo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/themeco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/themeisle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/trade-federation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/trello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/tripadvisor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/tumblr-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/tumblr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/twitch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/twitter-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/twitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/typo3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/uber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/uikit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/uniregistry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/untappd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/usb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/ussunnah.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vaadin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/viacoin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/viadeo-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/viadeo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/viber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vimeo-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vimeo-v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vimeo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vnv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/vuejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/weebly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/weibo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/weixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/whatsapp-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/whatsapp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/whmcs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wikipedia-w.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wolf-pack-battalion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wordpress-simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wordpress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wpbeginner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wpexplorer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/wpforms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/xbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/xing-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/xing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/y-combinator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/yahoo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/yandex-international.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/yandex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/yelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/yoast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/youtube-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/youtube.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brands/zhihu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/briefcase-medical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/briefcase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/broadcast-tower.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/broom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/brush.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/building.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bullhorn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bullseye.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/burn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bus-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/bus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar-minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar-times.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/camera-retro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cannabis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/capsules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/car-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/car-battery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/car-crash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/car-side.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/car.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-square-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-square-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-square-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-square-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/caret-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cart-arrow-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cart-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/certificate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chalkboard-teacher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chalkboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/charging-station.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chart-area.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chart-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chart-line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chart-pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/check-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/check-double.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/check-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-bishop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-king.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-knight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-pawn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-queen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess-rook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-circle-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-circle-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-circle-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-circle-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/chevron-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/child.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/church.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/circle-notch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/clipboard-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/clipboard-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/closed-captioning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cloud-download-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cloud-upload-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cloud.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cocktail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/code-branch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cogs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/coins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/columns.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/comment-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/comment-dots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/comment-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/comments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/compact-disc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/compass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/compress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/concierge-bell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cookie-bite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/copyright.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/couch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/credit-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/crop-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/crop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/crosshairs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/crow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/crown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cube.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cubes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/cut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/deaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/desktop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/diagnoses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-five.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-four.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-one.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-six.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-three.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice-two.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/digital-tachograph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/directions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/divide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dizzy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dna.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dollar-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dolly-flatbed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dolly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/donate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/door-closed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/door-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dot-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dove.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/download.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/drafting-compass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/draw-polygon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/drum-steelpan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/drum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/dumbbell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/eject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ellipsis-h.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ellipsis-v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/envelope-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/envelope-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/envelope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/equals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/eraser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/euro-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/exchange-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/exclamation-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/exclamation-triangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/exclamation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/expand-arrows-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/expand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/external-link-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/external-link-square-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/eye-dropper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/eye-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/eye.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fast-backward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fast-forward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/feather-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/feather.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/female.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fighter-jet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-archive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-audio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-contract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-download.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-export.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-import.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-invoice-dollar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-invoice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-medical-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-medical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-pdf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-powerpoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-prescription.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-signature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file-word.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fill-drip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/film.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fingerprint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fire-extinguisher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fire.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/first-aid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/flag-checkered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/flask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/flushed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/folder-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/folder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/font.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/football-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/forward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/frog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/frown-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/frown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/futbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/gamepad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/gas-pump.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/gavel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/gem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/genderless.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/gift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/glass-martini-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/glass-martini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/glasses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/globe-africa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/globe-americas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/globe-asia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/globe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/golf-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/graduation-cap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/greater-than-equal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/greater-than.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grimace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-beam-sweat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-hearts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-squint-tears.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-stars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-tears.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-tongue-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-tongue-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-tongue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grip-horizontal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/grip-vertical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/h-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-holding-heart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-holding-usd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-holding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-lizard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-paper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-peace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-point-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-point-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-point-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-point-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-pointer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-rock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-scissors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hand-spock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hands-helping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/handshake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hashtag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/heading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/headphones-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/headphones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/headset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/heart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/heartbeat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/helicopter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/highlighter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/history.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hockey-puck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hospital-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hospital-symbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hospital.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hot-tub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hotel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hourglass-end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hourglass-half.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hourglass-start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/hourglass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/i-cursor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/id-badge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/id-card-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/id-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/inbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/indent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/industry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/infinity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/info-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/italic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/joint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/keyboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/kiss-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/kiss-wink-heart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/kiss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/kiwi-bird.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laptop-code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laptop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laugh-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laugh-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laugh-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/laugh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/layer-group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/leaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/lemon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/less-than-equal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/less-than.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/level-down-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/level-up-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/life-ring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/lightbulb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/lira-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/list-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/list-ol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/list-ul.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/location-arrow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/lock-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/lock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/long-arrow-alt-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/long-arrow-alt-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/long-arrow-alt-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/long-arrow-alt-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/low-vision.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/luggage-cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/magic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/magnet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/male.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-marked-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-marked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-marker-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-pin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map-signs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mars-double.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mars-stroke-h.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mars-stroke-v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mars-stroke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/medal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/medkit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/meh-blank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/meh-rolling-eyes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/meh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/memory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mercury.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microchip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microphone-alt-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microphone-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microphone-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microphone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/microscope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/minus-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/minus-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mobile-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-bill-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-bill-wave-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-bill-wave.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-bill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-check-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/money-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/monument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/moon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mortar-pestle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/motorcycle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/mouse-pointer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/music.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/neuter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/newspaper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/not-equal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/notes-medical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/object-group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/object-ungroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/oil-can.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/outdent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paint-brush.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paint-roller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/palette.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pallet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paper-plane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paperclip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/parachute-box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paragraph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/parking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pause-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pause.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/paw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pen-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pen-fancy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pen-nib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pen-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pencil-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pencil-ruler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/people-carry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/percent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/percentage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/phone-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/phone-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/phone-volume.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/phone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/piggy-bank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plane-arrival.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plane-departure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/play-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/play.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plus-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plus-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/podcast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/poo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/poop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/portrait.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/pound-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/power-off.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/prescription-bottle-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/prescription-bottle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/prescription.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/procedures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/project-diagram.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/puzzle-piece.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/qrcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/question-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/question.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/quidditch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/quote-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/quote-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/receipt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/recycle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/redo-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/redo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/registered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/address-book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/address-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/angry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/arrow-alt-circle-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/arrow-alt-circle-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/arrow-alt-circle-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/arrow-alt-circle-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/bell-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/bell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/bookmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/building.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar-minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar-times.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/caret-square-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/caret-square-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/caret-square-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/caret-square-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/chart-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/check-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/check-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/closed-captioning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/comment-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/comment-dots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/comments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/compass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/copyright.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/credit-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/dizzy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/dot-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/envelope-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/envelope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/eye-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/eye.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-archive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-audio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-pdf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-powerpoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file-word.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/flushed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/folder-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/folder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/frown-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/frown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/futbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/gem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grimace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-beam-sweat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-hearts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-squint-tears.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-stars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-tears.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-tongue-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-tongue-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-tongue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/grin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-lizard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-paper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-peace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-point-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-point-left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-point-right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-point-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-pointer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-rock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-scissors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hand-spock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/handshake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/heart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hospital.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/hourglass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/id-badge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/id-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/keyboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/kiss-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/kiss-wink-heart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/kiss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/laugh-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/laugh-squint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/laugh-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/laugh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/lemon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/life-ring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/lightbulb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/list-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/meh-blank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/meh-rolling-eyes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/meh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/minus-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/money-bill-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/moon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/newspaper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/object-group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/object-ungroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/paper-plane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/pause-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/play-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/plus-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/question-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/registered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/sad-cry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/sad-tear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/save.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/share-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/smile-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/smile-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/smile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/snowflake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/star-half.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/star.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/sticky-note.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/stop-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/sun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/surprise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/thumbs-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/thumbs-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/times-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/tired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/trash-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/user-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/window-close.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/window-maximize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/window-minimize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/regular/window-restore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/reply-all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/reply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/retweet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ribbon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/road.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/robot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/rocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/rss-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/rss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ruble-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ruler-combined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ruler-horizontal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ruler-vertical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ruler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/rupee-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sad-cry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sad-tear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/save.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/school.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/screwdriver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/search-minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/search-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/seedling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shapes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/share-alt-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/share-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/share-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/share.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shekel-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shield-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ship.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shipping-fast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shoe-prints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shopping-bag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shopping-basket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shopping-cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shower.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/shuttle-van.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sign-in-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sign-language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sign-out-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/signal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/signature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sitemap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/skull.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sliders-h.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/smile-beam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/smile-wink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/smile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/smoking-ban.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/smoking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/snowflake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/solar-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-alpha-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-alpha-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-amount-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-amount-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-numeric-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-numeric-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/spa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/space-shuttle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/splotch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/spray-can.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/square-full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/star-half-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/star-half.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/star-of-life.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/star.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/step-backward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/step-forward.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stethoscope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sticky-note.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stop-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stopwatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/store-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/street-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/strikethrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/stroopwafel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/subscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/subway.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/suitcase-rolling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/suitcase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/superscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/surprise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/swatchbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/swimmer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/swimming-pool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sync-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/syringe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/table-tennis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tablet-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tablet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tablets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tachometer-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/taxi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/teeth-open.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/teeth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/terminal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/text-height.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/text-width.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/th-large.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/th-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/theater-masks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer-empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer-full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer-half.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer-quarter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer-three-quarters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thermometer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thumbs-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thumbs-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/thumbtack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/ticket-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/times-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/times.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tint-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/toggle-off.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/toggle-on.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/toolbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tooth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/trademark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/traffic-light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/train.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/transgender-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/transgender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/trash-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/trash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/trophy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/truck-loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/truck-monster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/truck-moving.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/truck-pickup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/truck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tshirt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/tv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/umbrella-beach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/umbrella.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/underline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/undo-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/undo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/universal-access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/university.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/unlink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/unlock-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/unlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-alt-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-astronaut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-cog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-friends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-graduate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-lock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-md.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-ninja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-plus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-secret.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-shield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-tie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user-times.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/users-cog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/utensil-spoon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/utensils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/vector-square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/venus-double.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/venus-mars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/venus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/vial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/vials.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/video-slash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/volleyball-ball.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/volume-down.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/volume-off.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/volume-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/walking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wallet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/warehouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/weight-hanging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/weight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wheelchair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wifi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/window-close.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/window-maximize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/window-minimize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/window-restore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wine-glass-alt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wine-glass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/won-sign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/wrench.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/x-ray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons/yen-sign.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1655999217">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="18" />
+          <entry key="json" value="1" />
+          <entry key="svg" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="18" />
+          <entry key="SVG" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="847" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="847" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gen-icons.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/icons/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28096">
+              <caret line="1280" column="2" lean-forward="true" selection-start-line="1280" selection-start-column="2" selection-end-line="1280" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rollup.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alias</find>
+      <find>500px</find>
+      <find>iconsaddress-book</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\vue-awesome\src\icons</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/icons2/500px.js" />
+        <option value="$PROJECT_DIR$/src/icons/address-book.js" />
+        <option value="$PROJECT_DIR$/rollup.config.js" />
+        <option value="$PROJECT_DIR$/src/icons/index.js" />
+        <option value="$PROJECT_DIR$/src/gen-icons.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-awesome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-awesome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-awesome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-awesome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-awesome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\WorkSpace\vue-awesome\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\WorkSpace\vue-awesome\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.rollup.config.js">
+    <configuration name="gen-icons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="gen-icons.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="rollup.config.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="rollup.config.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.gen-icons.js" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="Node.js.rollup.config.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="Node.js.rollup.config.js" />
+        <item itemvalue="Node.js.gen-icons.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8767e9d3-0580-4884-b9ed-72cbfbcbf6a4" name="默认" comment="" />
+      <created>1534748799038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534748799038</updated>
+      <workItem from="1534748800567" duration="3100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" sideWeight="0.50165015" side_tool="true" weight="0.25211418" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.25211418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32964602" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32964602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/icon-srouce/address-book.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons2/500px.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/fa2json.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vue-awesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret column="112767" selection-start-column="112762" selection-end-column="112767" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/address-book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/regular/arrow-alt-circle-left.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rollup.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28096">
+          <caret line="1280" column="2" lean-forward="true" selection-start-line="1280" selection-start-column="2" selection-end-line="1280" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen-icons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
