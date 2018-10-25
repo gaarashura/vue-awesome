@@ -1,6 +1,7 @@
 build
 demo
-src
+src/icon-source
+src/gen-icons.js
 assets
 index.html
 .*
